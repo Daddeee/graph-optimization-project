@@ -1,0 +1,162 @@
+reset;
+reset options;
+
+model heuristic.mod;
+
+data ../Assignment/instances/i_50_1.dat;
+
+option solver '/home/davide/ampl_linux-intel64/cplex';
+
+problem ILP: y, x, Installed_VMs, Assignment, Traffic, Cpu, Memory;
+
+param MAXITER := 1000;
+param tic;
+param toc;
+param ILP_time;
+param greedy_time;
+param kopt_time;
+
+let tic := _ampl_user_time;
+
+
+
+printf"-------------------\n" > results.txt;
+printf"		 Greedy       \n" > results.txt;
+printf"-------------------\n" > results.txt;
+
+param greedyValue default 0;
+
+# Set of requests to choose from
+set todoRequests default 1..N;
+
+# Set of current best requests based on scores
+set bestRequests default {};
+
+# Set of current used virtual machines
+param usedVMs default 0;
+
+# Current selected VMs
+param selected default Infinity;
+
+# Compute scores for each request
+param SCORES {1..N} default Infinity;
+for {i in 1..N} { let SCORES[i] := w[i]/B_c + cpu[i]/B_CPU + m[i]/B_m; }
+
+# Initialize residual capacities of each bin
+param res_c {1..M} default 0;
+param res_cpu {1..M} default 0;
+param res_m {1..M} default 0;
+
+for {i in 1..M} {
+	let res_c[i] := B_c;
+	let res_cpu[i] := B_CPU;
+	let res_m[i] := B_m;
+}
+
+repeat {
+	# Get the requests with the highest score
+	let bestRequests := {i in todoRequests: SCORES[i] == max{u in todoRequests} SCORES[u]};
+
+	# And remove them from the available requests
+	let todoRequests := todoRequests diff bestRequests;
+
+	# For each of this best requests
+	for{i in bestRequests} {
+
+		# Search a suitable VM from the used ones
+		let selected := Infinity;
+		repeat {
+			# For each used vm
+			for {j in 1..usedVMs} {
+				# if it has sufficient residual capacity
+				if ((res_c[j] >= w[i]) && (res_cpu[j] >= cpu[i]) && (res_m[j] >= m[i])) then {
+					# chose it and exit the search
+					let selected := j;
+					break;
+				}
+			}
+
+			# If no used VM can fit the request
+			if (selected == Infinity) then {
+				# spawn a new VM and repeat the process
+				let usedVMs := usedVMs + 1;
+
+				# maximum M VMs !!
+				if (usedVMs >= M) then {
+					display("vm overflow");
+					close;
+				}
+			}
+		} while (selected == Infinity);
+
+		# assign the request to the selected VM
+		let res_c[selected] := res_c[selected] - w[i];
+		let res_cpu[selected] := res_cpu[selected] - cpu[i];
+		let res_m[selected] := res_m[selected] - m[i];
+
+		let bestAssignment[i,selected] := 1;
+	}
+
+} while (card(todoRequests) > 0);
+
+let greedyValue := usedVMs;
+
+let toc := _ampl_user_time + _total_solve_user_time;
+
+printf "\n solution %g", greedyValue > results.txt;
+let greedy_time := toc - tic;
+let tic := toc;
+printf"\n time %g\n", greedy_time > results.txt;
+printf "\n\n" > results.txt;
+
+
+
+
+printf "-------------------\n" > results.txt;
+printf "		k-opt      \n" > results.txt;
+printf "-------------------\n" > results.txt;
+
+problem kOptNeighborhood: y, x, Installed_VMs, Assignment, Traffic, Cpu, Memory, NeighborhoodSize;
+
+param best_k_opt default 0;
+let best_k_opt := greedyValue;
+
+let k := ceil(N/5);
+
+param stop default 0;
+
+param k_opt_iter;
+let k_opt_iter := 0;
+
+
+repeat {
+	let k_opt_iter := k_opt_iter + 1;
+		
+	solve kOptNeighborhood;
+	
+	if(Installed_VMs < best_k_opt) then {
+	
+		# Update current best feasible solution		
+		for{i in 1..N, j in 1..M}
+		{
+			let bestAssignment[i,j] := x[i,j]
+		}		
+		let best_k_opt:= Installed_VMs;
+		printf"\n Improving solution found - value: %g", best_k_opt > results.txt;
+		
+		
+	}
+	else
+	{
+		let stop := 1;
+	}
+		
+} while (stop = 0);
+
+let toc := _ampl_user_time + _total_solve_user_time;
+
+let kopt_time := toc - tic;
+
+printf"\n solution %g", best_k_opt >results.txt;
+printf"\n iterations %d, time %g",k_opt_iter, kopt_time >results.txt;
+printf "\n\n" > results.txt;

@@ -1,0 +1,29 @@
+reset;
+reset options;
+
+model ILP.mod;
+
+data ../Assignment/instances/i_50_1.dat;
+
+option solver '/home/davide/ampl_linux-intel64/cplex';
+
+problem ILP: y, x, Installed_VMs, Assignment, Traffic, Cpu, Memory;
+
+param tic;
+param toc;
+param ILP_time;
+
+let tic := _ampl_user_time;
+
+printf"-------------------\n" > results.txt;
+printf"  ILP formulation\n" > results.txt;
+printf"-------------------\n" > results.txt;
+
+solve ILP;
+
+let toc := _ampl_user_time + _total_solve_user_time;
+let ILP_time := toc - tic;
+
+printf "\n solution: %g", Installed_VMs > results.txt;
+printf "\n time: %g\n", ILP_time > results.txt;
+printf "\n\n" > results.txt;

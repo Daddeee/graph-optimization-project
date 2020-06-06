@@ -1,0 +1,85 @@
+
+ 	 	 	 COLUMN GENERATION 
+
+
+------------------------------------------------ 
+
+ objective function (bins): 10.000000
+
+ used bins: 
+ virtual machine 1 (1)	 requests:  1 	
+ virtual machine 2 (1)	 requests:  2 	
+ virtual machine 3 (1)	 requests:  3 	
+ virtual machine 4 (1)	 requests:  4 	
+ virtual machine 5 (1)	 requests:  5 	
+ virtual machine 6 (1)	 requests:  6 	
+ virtual machine 7 (1)	 requests:  7 	
+ virtual machine 8 (1)	 requests:  8 	
+ virtual machine 9 (1)	 requests:  9 	
+ virtual machine 10 (1)	 requests:  10 	
+
+
+ Candidate new virtual machine: 	2  3  5  7  8  
+ profit: 5.000000 
+
+ Added virtual machine
+ M=11 
+ 
+------------------------------------------------ 
+
+ objective function (bins): 6.000000
+
+ used bins: 
+ virtual machine 1 (1)	 requests:  1 	
+ virtual machine 4 (1)	 requests:  4 	
+ virtual machine 6 (1)	 requests:  6 	
+ virtual machine 9 (1)	 requests:  9 	
+ virtual machine 10 (1)	 requests:  10 	
+ virtual machine 11 (1)	 requests:  2 	 3 	 5 	 7 	 8 	
+
+
+ Candidate new virtual machine: 	6  9  10  
+ profit: 3.000000 
+
+ Added virtual machine
+ M=12 
+ 
+------------------------------------------------ 
+
+ objective function (bins): 4.000000
+
+ used bins: 
+ virtual machine 1 (1)	 requests:  1 	
+ virtual machine 4 (1)	 requests:  4 	
+ virtual machine 11 (1)	 requests:  2 	 3 	 5 	 7 	 8 	
+ virtual machine 12 (1)	 requests:  6 	 9 	 10 	
+
+
+ Candidate new virtual machine: 	1  4  
+ profit: 2.000000 
+
+ Added virtual machine
+ M=13 
+ 
+------------------------------------------------ 
+
+ objective function (bins): 3.000000
+
+ used bins: 
+ virtual machine 11 (1)	 requests:  2 	 3 	 5 	 7 	 8 	
+ virtual machine 12 (1)	 requests:  6 	 9 	 10 	
+ virtual machine 13 (1)	 requests:  1 	 4 	
+
+
+ Candidate new virtual machine: 	1  4  
+ profit: 0.000000 
+
+ Did not add the virtual machine to the master problem 
+ 
+------------------------------------------------ 
+
+ final master objective: 3.000000 
+
+ final number of columns:      13 
+
+ Solution is optimal!
