@@ -2,7 +2,7 @@
   ILP formulation
 -------------------
 
- solution: 0
- time: 0.00387
+ solution: 12
+ time: 0.109292
 
 

@@ -1,0 +1,119 @@
+reset;
+reset options;
+
+model surrogate_relaxation.mod;
+
+data ../Assignment/instances/i_10_3.dat;
+
+option solver '/home/davide/ampl_linux-intel64/cplex';
+
+problem SurrogateRelaxation: x, y, Installed_VMs, Assignment, SurrogateCapacity;
+
+param tic;
+param toc;
+param SR_time;
+
+let tic := _ampl_user_time;
+
+printf"\n\n\n">results.txt;
+printf"----------------------------------------\n" > results.txt;
+printf"          Surrogate Relaxation          \n" > results.txt;
+printf"----------------------------------------\n" > results.txt;
+# Initialize the surrogate relaxation
+
+param LB_SR default 0;
+display LB_SR > results.txt;
+
+param UB_SR default M;
+display UB_SR > results.txt;
+
+let t := 1;
+
+param is_feasible default 1;
+param iter default 1;
+param iter_from_last_improvement default 0;
+
+let tic := _ampl_user_time;
+
+repeat
+{
+
+	printf"\nIteration %d ... \n",iter > results.txt;
+			
+	# Solve the Surrogate Relaxation
+	solve SurrogateRelaxation;
+
+    printf"\n Found SR solution - value: %g", Installed_VMs > results.txt;
+	
+	# Check for feasibility: 
+	# update LB_SR if feasible
+	let is_feasible := 1;
+	for {j in 1..M}
+	{
+		if (!( sum{i in 1..N} w[i]*x[i,j] <= B_c * y[j] 	) || 
+			!( sum{i in 1..N} cpu[i]*x[i,j] <= B_CPU * y[j] ) ||
+			!( sum{i in 1..N} m[i]*x[i,j] <= B_m * y[j] 	)) then
+		{
+			let is_feasible := 0;
+			break;
+		};
+	};
+
+	if (is_feasible) then 
+	{
+		let UB_SR := min(UB_SR, Installed_VMs);
+		printf"\n Feasible solution found - value: %g", UB_SR > results.txt;
+	};
+	
+	# Update step size
+	let t := 0.995*t;
+ 
+	# Update lower bound
+    if (Installed_VMs > LB_SR) then {
+        let LB_SR := Installed_VMs;
+        let iter_from_last_improvement := 0; 
+    } else {
+        let iter_from_last_improvement := iter_from_last_improvement + 1;
+    }
+
+	printf"\n Current best lower bound %g", LB_SR > results.txt;
+	 
+	# Update multipliers
+	for {j in 1..M}
+	{
+		
+        # Update multipliers
+        let m1[j] := max(0, m1[j] - t*(B_c*y[j] - sum{i in 1..N} (w[i]*x[i,j])));
+        let m2[j] := max(0, m2[j] - t*(B_CPU*y[j] - sum{i in 1..N} (cpu[i]*x[i,j])));
+        let m3[j] := max(0, m3[j] - t*(B_m*y[j] - sum{i in 1..N} (m[i]*x[i,j])));
+		
+		printf"\n Updated multipliers %g,%g,%g\n", m1[j],m2[j],m3[j]> results.txt;
+	};
+
+	printf"\n Updated step %g \n", t > results.txt;
+
+    let iter := iter + 1;
+
+	if(LB_SR == UB_SR) then {
+        printf"\n Optimal found! \n" > results.txt;
+        break;
+    }
+
+
+    if (iter_from_last_improvement > max_iter_without_improvement) then {
+        printf"\n %g iterations passed without improvements. Quitting. \n", iter_from_last_improvement > results.txt;
+        break;
+    }
+	
+} while (iter <= max_iter);
+
+let toc := _ampl_user_time + _total_solve_user_time;
+
+let SR_time := toc - tic;
+let tic := toc;
+
+printf"\n solution %g\n", LB_SR;
+
+printf"\n solution %g", LB_SR >results.txt;
+printf"\n iterations %d, time %g",iter, SR_time >results.txt;
+printf "\n\n" > results.txt;

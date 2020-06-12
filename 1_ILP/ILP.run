@@ -3,7 +3,7 @@ reset options;
 
 model ILP.mod;
 
-data ../Assignment/instances/i_50_1.dat;
+data ../Assignment/instances/i_40_1.dat;
 
 option solver '/home/davide/ampl_linux-intel64/cplex';
 

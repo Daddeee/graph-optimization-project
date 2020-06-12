@@ -12,7 +12,6 @@ problem ILP: y, x, Installed_VMs, Assignment, Traffic, Cpu, Memory;
 param MAXITER := 1000;
 param tic;
 param toc;
-param ILP_time;
 param greedy_time;
 param kopt_time;
 
@@ -20,9 +19,9 @@ let tic := _ampl_user_time;
 
 
 
-printf"-------------------\n" > results.txt;
-printf"		 Greedy       \n" > results.txt;
-printf"-------------------\n" > results.txt;
+printf"--------------------------\n" > results.txt;
+printf"		 Greedy          \n" > results.txt;
+printf"--------------------------\n" > results.txt;
 
 param greedyValue default 0;
 
@@ -112,9 +111,9 @@ printf "\n\n" > results.txt;
 
 
 
-printf "-------------------\n" > results.txt;
-printf "		k-opt      \n" > results.txt;
-printf "-------------------\n" > results.txt;
+printf "-------------------------\n" > results.txt;
+printf "	  k-opt          \n" > results.txt;
+printf "-------------------------\n" > results.txt;
 
 problem kOptNeighborhood: y, x, Installed_VMs, Assignment, Traffic, Cpu, Memory, NeighborhoodSize;
 
@@ -143,8 +142,6 @@ repeat {
 		}		
 		let best_k_opt:= Installed_VMs;
 		printf"\n Improving solution found - value: %g", best_k_opt > results.txt;
-		
-		
 	}
 	else
 	{
