@@ -1,0 +1,102 @@
+reset;
+reset options;
+
+model cover.mod;
+
+data ../Assignment/instances/i_10_1.dat;
+
+option solver '/home/davide/ampl_linux-intel64/cplex';
+
+#PROBLEM DEFINITION
+
+problem Relaxation: x, y, Installed_VMs, Assignment, Traffic, Cpu, Memory, Cover;
+problem SeparationTraffic: u, Violation, CoverConditionTraffic;
+problem SeparationCpu: u, Violation, CoverConditionCpu;
+problem SeparationMemory: u, Violation, CoverConditionMemory;
+
+param check_violation default 0;
+param iter default 0;
+
+solve Relaxation;
+
+printf "Initial: %g\n", Installed_VMs > results.txt;
+
+
+repeat {
+    let check_violation := 0;
+    let iter := iter + 1;
+
+    solve Relaxation;
+
+    for {j in 1..M} {
+
+        for {k in 1..N} {
+            let x_star[k] := x[k,j];
+        }
+
+        solve SeparationTraffic;
+
+        if (Violation < 1) then {
+            printf "\nFound violation: traffic, j=%g\n", j > results.txt;
+            let check_violation:=1;
+            # Update the number of cover inequalities
+            let nc := nc + 1;
+
+            # Create new cover 
+            let CI[nc] := setof {i in 1..N: u[i] = 1} i;
+            printf"CI[%d] := ",nc > results.txt;
+            for{l in CI[nc]}
+            {
+                 printf"%d ",l > results.txt;
+            }
+            printf"\n" > results.txt;
+        }
+
+                for {k in 1..N} {
+            let x_star[k] := x[k,j];
+        }
+
+        solve SeparationCpu;
+
+        if (Violation < 1) then {
+            printf "\nFound violation: cpu, j=%g\n", j > results.txt;
+            let check_violation:=1;
+            # Update the number of cover inequalities
+            let nc := nc + 1;
+
+            # Create new cover 
+            let CI[nc] := setof {i in 1..N: u[i] = 1} i;
+            printf"CI[%d] := ",nc > results.txt;
+            for{l in CI[nc]}
+            {
+                 printf"%d ",l > results.txt;
+            }
+            printf"\n" > results.txt;
+        }
+
+        solve SeparationMemory;
+
+        if (Violation < 1) then {
+            printf "\nFound violation: memory, j=%g\n", j > results.txt;
+            let check_violation:=1;
+            # Update the number of cover inequalities
+            let nc := nc + 1;
+
+            # Create new cover 
+            let CI[nc] := setof {i in 1..N: u[i] = 1} i;
+            printf"CI[%d] := ",nc > results.txt;
+            for{l in CI[nc]}
+            {
+                 printf"%d ",l > results.txt;
+            }
+            printf"\n" > results.txt;
+        }
+    }
+
+} until (check_violation == 0);
+
+solve Relaxation;
+
+print Installed_VMs;
+
+printf "Final: %g", Installed_VMs > results.txt;

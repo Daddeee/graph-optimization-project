@@ -1,7 +1,7 @@
 reset;
 reset options;
 
-model surrogate_relaxation.mod;
+model surrogate.mod;
 
 data ../Assignment/instances/i_10_3.dat;
 
@@ -21,7 +21,7 @@ printf"          Surrogate Relaxation          \n" > results.txt;
 printf"----------------------------------------\n" > results.txt;
 # Initialize the surrogate relaxation
 
-param LB_SR default 0;
+param LB_SR default 1;
 display LB_SR > results.txt;
 
 param UB_SR default M;
