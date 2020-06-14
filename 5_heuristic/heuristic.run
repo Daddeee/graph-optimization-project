@@ -3,7 +3,7 @@ reset options;
 
 model heuristic.mod;
 
-data ../Assignment/instances/i_50_1.dat;
+data ../Assignment/instances/i_40_1.dat;
 
 option solver '/home/davide/ampl_linux-intel64/cplex';
 
@@ -120,13 +120,12 @@ problem kOptNeighborhood: y, x, Installed_VMs, Assignment, Traffic, Cpu, Memory,
 param best_k_opt default 0;
 let best_k_opt := greedyValue;
 
-let k := ceil(N/5);
+let k := ceil(N*M/5);
 
 param stop default 0;
 
 param k_opt_iter;
 let k_opt_iter := 0;
-
 
 repeat {
 	let k_opt_iter := k_opt_iter + 1;
@@ -157,3 +156,9 @@ let kopt_time := toc - tic;
 printf"\n solution %g", best_k_opt >results.txt;
 printf"\n iterations %d, time %g",k_opt_iter, kopt_time >results.txt;
 printf "\n\n" > results.txt;
+
+display greedyValue;
+display greedy_time;
+display best_k_opt;
+display kopt_time;
+display k_opt_iter;

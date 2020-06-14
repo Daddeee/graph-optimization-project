@@ -509,4 +509,4 @@ CI[169] := 3 20 33 38
 
 Found violation: traffic, j=33
 CI[170] := 9 24 32 
-Final: 11.1277Time: 85.1199
+Final: 11.1277Time: 207.074

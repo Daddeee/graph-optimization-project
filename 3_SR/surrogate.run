@@ -3,7 +3,7 @@ reset options;
 
 model surrogate.mod;
 
-data ../Assignment/instances/i_10_1.dat;
+data ../Assignment/instances/i_40_1.dat;
 
 option solver '/home/davide/ampl_linux-intel64/cplex';
 
@@ -33,7 +33,7 @@ param LB_CPU = Total_CPU/B_CPU;
 param LB_Memory = Total_Memory/B_m;
 
 param LB_SR default 1;
-let LB_SR := max (LB_Traffic,LB_CPU,LB_Memory);
+let LB_SR := max(LB_Traffic,LB_CPU,LB_Memory);
 
 display LB_SR > results.txt;
 
@@ -67,6 +67,7 @@ repeat
 			!( sum{i in 1..N} cpu[i]*x[i,j] <= B_CPU * y[j] ) ||
 			!( sum{i in 1..N} m[i]*x[i,j] <= B_m * y[j] 	)) then
 		{
+			printf "\n The solution is not feasible." > results.txt;
 			let is_feasible := 0;
 			break;
 		};
@@ -129,3 +130,8 @@ printf"\n solution %g\n", LB_SR;
 printf"\n solution %g", LB_SR >results.txt;
 printf"\n iterations %d, time %g",iter, SR_time >results.txt;
 printf "\n\n" > results.txt;
+
+display LB_SR;
+display UB_SR;
+display SR_time;
+display iter;

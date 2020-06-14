@@ -26,9 +26,9 @@ param B_m default N;
 # Integer Linear Programming model
 #---------------------------------
 
-var x{1..N,1..M} binary;
+var x{1..N,1..M} >= 0, <= 1; #binary;
 
-var y{1..M} binary;
+var y{1..M} >= 0, <= 1; #binary;
 
 minimize Installed_VMs:
 	sum{j in 1..M} y[j];

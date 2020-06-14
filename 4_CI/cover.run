@@ -27,6 +27,8 @@ solve Relaxation;
 
 printf "Initial: %g\n", Installed_VMs > results.txt;
 
+param initial default M;
+let initial := Installed_VMs;
 
 repeat {
     let check_violation := 0;
@@ -121,12 +123,14 @@ let toc := _ampl_user_time + _total_solve_user_time;
 
 let CI_time := toc - tic;
 
-print Installed_VMs;
-
-print CI_time;
-
-print nc;
+param final default M;
+let final := Installed_VMs;
 
 printf "Final: %g", Installed_VMs > results.txt;
 
 printf "Time: %g", CI_time > results.txt;
+
+display initial;
+display final;
+display CI_time;
+display nc;
