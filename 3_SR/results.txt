@@ -4,34 +4,16 @@
 ----------------------------------------
           Surrogate Relaxation          
 ----------------------------------------
-LB_SR = 11.1277
+LB_SR = 4.3
 
-UB_SR = 40
+UB_SR = 10
 
 
 Iteration 1 ... 
 
- Found SR solution - value: 9
+ Found SR solution - value: 3
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 26.87,0,0
-
- Updated multipliers 17.915,0,0.005
-
- Updated multipliers 9.955,0,0
-
- Updated multipliers 9.955,0,0
-
- Updated multipliers 7.965,0,1
-
- Updated multipliers 7.965,0,0
-
- Updated multipliers 17.915,0,0
-
- Updated multipliers 16.92,0,0
-
- Updated multipliers 0,0,0
-
+ Current best lower bound 4.3
  Updated multipliers 1,1,1
 
  Updated multipliers 1,1,1
@@ -44,1718 +26,7286 @@ Iteration 1 ...
 
  Updated multipliers 1,1,1
 
- Updated multipliers 1,1,1
+ Updated multipliers 0,0,4
 
  Updated multipliers 1,1,1
 
- Updated multipliers 1,1,1
+ Updated multipliers 0,19,9
 
- Updated multipliers 1,1,1
+ Updated multipliers 0,9,3
 
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated step 0.995 
+ Updated step 1 
 
 Iteration 2 ... 
 
- Found SR solution - value: 0
+ Found SR solution - value: 3
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 26.87,0,0
-
- Updated multipliers 17.915,0,0.005
-
- Updated multipliers 9.955,0,0
-
- Updated multipliers 9.955,0,0
-
- Updated multipliers 7.965,0,1
-
- Updated multipliers 7.965,0,0
-
- Updated multipliers 17.915,0,0
-
- Updated multipliers 16.92,0,0
-
- Updated multipliers 517.783,433.631,99.9925
+ Current best lower bound 4.3
+ Updated multipliers 0,5.5,0
 
  Updated multipliers 1,1,1
 
  Updated multipliers 1,1,1
 
- Updated multipliers 1,1,1
+ Updated multipliers 0,10,3
 
  Updated multipliers 1,1,1
 
  Updated multipliers 1,1,1
 
- Updated multipliers 1,1,1
+ Updated multipliers 0,0,4
 
  Updated multipliers 1,1,1
 
- Updated multipliers 1,1,1
+ Updated multipliers 0,19,9
 
- Updated multipliers 1,1,1
+ Updated multipliers 0,6,9.5
 
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated step 0.990025 
+ Updated step 0.5 
 
 Iteration 3 ... 
 
- Found SR solution - value: 8
+ Found SR solution - value: 3
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 26.87,0,0
+ Current best lower bound 4.3
+ Updated multipliers 0,5.5,0
 
- Updated multipliers 17.915,0,0.005
+ Updated multipliers 0,8,0
 
- Updated multipliers 9.955,36.4478,4.92537
+ Updated multipliers 0,4.33333,3.33333
 
- Updated multipliers 9.955,0,0
-
- Updated multipliers 6.97993,12.806,0
-
- Updated multipliers 7.965,0,0
-
- Updated multipliers 17.915,0,0
-
- Updated multipliers 16.92,0,0
-
- Updated multipliers 526.649,420.825,103.933
-
- Updated multipliers 27.597,0,0
-
- Updated multipliers 31.5373,0,0
+ Updated multipliers 0.666667,6.66667,6.33333
 
  Updated multipliers 1,1,1
 
  Updated multipliers 1,1,1
 
- Updated multipliers 31.5373,0,0
+ Updated multipliers 0,0,4
 
  Updated multipliers 1,1,1
 
- Updated multipliers 1,1,1
+ Updated multipliers 0,19,9
 
- Updated multipliers 1,1,1
+ Updated multipliers 0,6,9.5
 
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 23.6567,0,0
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 27.597,0,0
-
- Updated step 0.985075 
+ Updated step 0.333333 
 
 Iteration 4 ... 
 
- Found SR solution - value: 8
+ Found SR solution - value: 3
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 12.1678,8.82135,1.9603
+ Current best lower bound 4.3
+ Updated multipliers 0,5.5,0
 
- Updated multipliers 14.9746,23.5236,0
+ Updated multipliers 0,8,0
 
- Updated multipliers 93.2677,0,6.88567
+ Updated multipliers 0,4.33333,3.33333
 
- Updated multipliers 9.955,0,0
-
- Updated multipliers 26.5829,0,1.9603
-
- Updated multipliers 7.965,0,0
-
- Updated multipliers 17.915,0,0
-
- Updated multipliers 16.92,0,0
-
- Updated multipliers 526.649,409.063,102.953
-
- Updated multipliers 27.597,0,0
-
- Updated multipliers 31.5373,0,0
-
- Updated multipliers 27.464,0,0
-
- Updated multipliers 13.7419,0,0
-
- Updated multipliers 31.5373,0,0
+ Updated multipliers 0.666667,6.66667,6.33333
 
  Updated multipliers 1,1,1
 
- Updated multipliers 1,1,1
+ Updated multipliers 0.25,0.5,1.75
 
- Updated multipliers 1,1,1
+ Updated multipliers 0,3,4
 
- Updated multipliers 1,1,1
+ Updated multipliers 0,3.75,3.5
 
- Updated multipliers 1,1,1
+ Updated multipliers 0,19,9
 
- Updated multipliers 1,1,1
+ Updated multipliers 0,6,9.5
 
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 23.6567,0,0
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 20.603,0,0
-
- Updated multipliers 27.597,0,0
-
- Updated step 0.98015 
+ Updated step 0.25 
 
 Iteration 5 ... 
 
- Found SR solution - value: 8
+ Found SR solution - value: 3
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 12.1678,8.82135,1.9603
+ Current best lower bound 4.3
+ Updated multipliers 0,5.5,0
 
- Updated multipliers 67.638,0,1.9505
+ Updated multipliers 0.4,6,2
 
- Updated multipliers 93.2677,0,6.88567
+ Updated multipliers 0,4.33333,3.33333
 
- Updated multipliers 9.955,0,0
+ Updated multipliers 0.666667,6.66667,6.33333
 
- Updated multipliers 26.5829,7.80199,1.9603
+ Updated multipliers 0,3,2.4
 
- Updated multipliers 7.965,0,0
+ Updated multipliers 0,4.7,0.95
 
- Updated multipliers 17.915,0,0
+ Updated multipliers 0,3,4
 
- Updated multipliers 16.92,0,0
+ Updated multipliers 0,3.75,3.5
 
- Updated multipliers 526.649,409.063,102.953
+ Updated multipliers 0,19,9
 
- Updated multipliers 27.597,0,0
+ Updated multipliers 0,6,9.5
 
- Updated multipliers 31.5373,45.8367,7.80199
-
- Updated multipliers 27.464,0,0
-
- Updated multipliers 13.7419,0,0
-
- Updated multipliers 31.5373,0,0
-
- Updated multipliers 14.6535,0,0
-
- Updated multipliers 28.307,0,0
-
- Updated multipliers 12.703,0,0
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 12.703,0,0
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 27.3317,0,0
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 23.6567,0,0
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 20.603,0,0
-
- Updated multipliers 27.597,0,0
-
- Updated step 0.975249 
+ Updated step 0.2 
 
 Iteration 6 ... 
 
- Found SR solution - value: 8
+ Found SR solution - value: 4
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 12.1678,8.82135,1.9603
+ Current best lower bound 4.3
+ Updated multipliers 0,4,1.5
 
- Updated multipliers 67.638,0,1.9505
+ Updated multipliers 0,6.33333,1.33333
 
- Updated multipliers 93.2677,0,6.88567
+ Updated multipliers 0,4.16667,2.5
 
- Updated multipliers 9.955,0,0
+ Updated multipliers 0,3.5,6.83333
 
- Updated multipliers 26.5829,7.80199,1.9603
+ Updated multipliers 0,3,2.4
 
- Updated multipliers 7.965,0,0
+ Updated multipliers 0,4.7,0.95
 
- Updated multipliers 17.915,0,0
+ Updated multipliers 0,3,4
 
- Updated multipliers 16.92,0,0
+ Updated multipliers 0,3.75,3.5
 
- Updated multipliers 526.649,409.063,102.953
+ Updated multipliers 0,19,9
 
- Updated multipliers 27.597,0,0
+ Updated multipliers 0,6,9.5
 
- Updated multipliers 83.9374,8.96254,11.6835
-
- Updated multipliers 27.464,0,0
-
- Updated multipliers 13.7419,0,0
-
- Updated multipliers 31.5373,0,0
-
- Updated multipliers 14.6535,0,0
-
- Updated multipliers 28.307,0,0
-
- Updated multipliers 12.703,0,0
-
- Updated multipliers 15.5556,0,0
-
- Updated multipliers 27.2001,0,0
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 21.3778,0,0
-
- Updated multipliers 12.703,44.6371,7.76298
-
- Updated multipliers 1,1,1
-
- Updated multipliers 9.73335,0,0
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 27.3317,0,0
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 8.76298,0,0
-
- Updated multipliers 1,1,1
-
- Updated multipliers 13.6148,0,0
-
- Updated multipliers 23.6567,0,0
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 20.603,0,0
-
- Updated multipliers 27.597,0,0
-
- Updated step 0.970373 
+ Updated step 0.166667 
 
 Iteration 7 ... 
 
- Found SR solution - value: 8
+ Found SR solution - value: 4
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 12.1678,8.82135,1.9603
+ Current best lower bound 4.3
+ Updated multipliers 0,2.71429,2.78571
 
- Updated multipliers 67.638,0,1.9505
+ Updated multipliers 0,5.61905,1.61905
 
- Updated multipliers 83.6125,9.65521,1.09255
+ Updated multipliers 0,3.7381,1.5
 
- Updated multipliers 9.955,0,0
+ Updated multipliers 0,2.07143,6.69048
 
- Updated multipliers 26.5829,7.80199,1.9603
+ Updated multipliers 0,3,2.4
 
- Updated multipliers 7.965,0,0
+ Updated multipliers 0,4.7,0.95
 
- Updated multipliers 17.915,31.8622,8.68969
+ Updated multipliers 0,3,4
 
- Updated multipliers 16.92,0,0
+ Updated multipliers 0,3.75,3.5
 
- Updated multipliers 526.649,409.063,102.953
+ Updated multipliers 0,19,9
 
- Updated multipliers 27.597,0,0
+ Updated multipliers 0,6,9.5
 
- Updated multipliers 83.9374,8.96254,11.6835
-
- Updated multipliers 27.464,0,0
-
- Updated multipliers 13.7419,0,0
-
- Updated multipliers 31.5373,0,0
-
- Updated multipliers 14.6535,0,0
-
- Updated multipliers 28.307,0,0
-
- Updated multipliers 12.703,0,0
-
- Updated multipliers 15.5556,0,0
-
- Updated multipliers 27.2001,0,0
-
- Updated multipliers 7.75864,0,0
-
- Updated multipliers 1,1,1
-
- Updated multipliers 19.3449,0,0
-
- Updated multipliers 21.3778,0,0
-
- Updated multipliers 105.393,15.6715,14.5216
-
- Updated multipliers 15.4828,0,0
-
- Updated multipliers 9.73335,0,0
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 27.3317,0,0
-
- Updated multipliers 1,1,1
-
- Updated multipliers 17.4139,0,0
-
- Updated multipliers 8.76298,0,0
-
- Updated multipliers 3.89656,0,0
-
- Updated multipliers 13.6148,0,0
-
- Updated multipliers 23.6567,0,0
-
- Updated multipliers 1,1,1
-
- Updated multipliers 1,1,1
-
- Updated multipliers 20.603,0,0
-
- Updated multipliers 27.597,0,0
-
- Updated step 0.965521 
+ Updated step 0.142857 
 
 Iteration 8 ... 
 
- Found SR solution - value: 8
+ Found SR solution - value: 4
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 12.1678,8.82135,1.9603
+ Current best lower bound 4.3
+ Updated multipliers 0,2.71429,2.78571
 
- Updated multipliers 67.638,1.92139,0
+ Updated multipliers 0,3.11905,1.49405
 
- Updated multipliers 83.6125,9.65521,1.09255
+ Updated multipliers 0,3.7381,1.5
 
- Updated multipliers 7.07292,46.1133,5.76416
+ Updated multipliers 0,1.82143,5.94048
 
- Updated multipliers 26.5829,7.80199,1.9603
+ Updated multipliers 0,3,2.4
 
- Updated multipliers 7.965,0,0
+ Updated multipliers 0,3.7,2.575
 
- Updated multipliers 70.7531,0,10.6111
+ Updated multipliers 0,3,4
 
- Updated multipliers 16.92,0,0
+ Updated multipliers 0,3.75,3.5
 
- Updated multipliers 526.649,409.063,102.953
+ Updated multipliers 0,19,9
 
- Updated multipliers 27.597,0,0
+ Updated multipliers 0,6.375,9.125
 
- Updated multipliers 83.9374,8.96254,11.6835
-
- Updated multipliers 27.464,0,0
-
- Updated multipliers 13.7419,0,0
-
- Updated multipliers 31.5373,0,0
-
- Updated multipliers 14.6535,0,0
-
- Updated multipliers 28.307,0,0
-
- Updated multipliers 12.703,0,0
-
- Updated multipliers 15.5556,0,0
-
- Updated multipliers 27.2001,0,0
-
- Updated multipliers 7.75864,0,0
-
- Updated multipliers 31.7422,0,0
-
- Updated multipliers 19.3449,0,0
-
- Updated multipliers 21.3778,0,0
-
- Updated multipliers 105.393,15.6715,14.5216
-
- Updated multipliers 15.4828,0,0
-
- Updated multipliers 9.73335,0,0
-
- Updated multipliers 21.1746,0,0
-
- Updated multipliers 1,0,1
-
- Updated multipliers 20.2139,0,0
-
- Updated multipliers 27.3317,0,0
-
- Updated multipliers 1,1,1
-
- Updated multipliers 17.4139,0,0
-
- Updated multipliers 8.76298,0,0
-
- Updated multipliers 3.89656,0,0
-
- Updated multipliers 13.6148,0,0
-
- Updated multipliers 23.6567,0,0
-
- Updated multipliers 1,1,1
-
- Updated multipliers 22.1352,0,0
-
- Updated multipliers 20.603,0,0
-
- Updated multipliers 27.597,0,0
-
- Updated step 0.960693 
+ Updated step 0.125 
 
 Iteration 9 ... 
 
- Found SR solution - value: 7
+ Found SR solution - value: 4
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 16.9472,2.13012,1.9603
+ Current best lower bound 4.3
+ Updated multipliers 0,2.71429,2.78571
 
- Updated multipliers 67.638,1.92139,0
+ Updated multipliers 0,3.11905,1.49405
 
- Updated multipliers 83.6125,9.65521,1.09255
+ Updated multipliers 0,2.84921,2.94444
 
- Updated multipliers 120.824,26.9955,15.3231
+ Updated multipliers 0,1.59921,5.27381
 
- Updated multipliers 26.5829,7.80199,1.9603
+ Updated multipliers 0,3,2.4
 
- Updated multipliers 7.965,0,0
+ Updated multipliers 0,3.7,2.575
 
- Updated multipliers 70.7531,0,10.6111
+ Updated multipliers 0,3,4
 
- Updated multipliers 16.92,0,0
+ Updated multipliers 0,3.75,3.5
 
- Updated multipliers 538.119,392.813,103.909
+ Updated multipliers 0,16.7778,8.88889
 
- Updated multipliers 27.597,43.9709,7.64712
+ Updated multipliers 0,6.70833,8.79167
 
- Updated multipliers 83.9374,8.96254,11.6835
-
- Updated multipliers 27.464,0,0
-
- Updated multipliers 13.7419,0,0
-
- Updated multipliers 31.5373,0,0
-
- Updated multipliers 14.6535,0,0
-
- Updated multipliers 28.307,0,0
-
- Updated multipliers 12.703,0,0
-
- Updated multipliers 15.5556,0,0
-
- Updated multipliers 27.2001,0,0
-
- Updated multipliers 7.75864,0,0
-
- Updated multipliers 31.7422,0,0
-
- Updated multipliers 19.3449,0,0
-
- Updated multipliers 21.3778,0,0
-
- Updated multipliers 105.393,15.6715,14.5216
-
- Updated multipliers 15.4828,0,0
-
- Updated multipliers 9.73335,0,0
-
- Updated multipliers 21.1746,0,0
-
- Updated multipliers 6.73534,15.2942,0
-
- Updated multipliers 20.2139,0,0
-
- Updated multipliers 27.3317,0,0
-
- Updated multipliers 22.9855,0,0
-
- Updated multipliers 17.4139,0,0
-
- Updated multipliers 8.76298,0,0
-
- Updated multipliers 3.89656,0,0
-
- Updated multipliers 13.6148,0,0
-
- Updated multipliers 23.6567,0,0
-
- Updated multipliers 28.7208,0,0
-
- Updated multipliers 22.1352,0,0
-
- Updated multipliers 20.603,0,0
-
- Updated multipliers 27.597,0,0
-
- Updated step 0.95589 
+ Updated step 0.111111 
 
 Iteration 10 ... 
 
- Found SR solution - value: 8
+ Found SR solution - value: 4
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 16.9472,2.13012,1.9603
+ Current best lower bound 4.3
+ Updated multipliers 0,2.71429,2.78571
 
- Updated multipliers 67.638,0,1.90222
+ Updated multipliers 0,2.31905,2.79405
 
- Updated multipliers 83.6125,9.65521,1.09255
+ Updated multipliers 0,2.84921,2.94444
 
- Updated multipliers 124.628,13.6799,8.66528
+ Updated multipliers 0,1.39921,4.67381
 
- Updated multipliers 33.2407,0,0
+ Updated multipliers 0,3,2.4
 
- Updated multipliers 7.965,0,0
+ Updated multipliers 0,3.7,2.575
 
- Updated multipliers 71.7042,11.4133,3.9533
+ Updated multipliers 0,3.3,3.7
 
- Updated multipliers 15.0178,34.24,5.70666
+ Updated multipliers 0,3.75,3.5
 
- Updated multipliers 556.191,368.084,96.2997
+ Updated multipliers 0,14.7778,8.78889
 
- Updated multipliers 58.9837,23.9976,4.79379
+ Updated multipliers 0,6.70833,8.79167
 
- Updated multipliers 83.9374,8.96254,11.6835
-
- Updated multipliers 27.464,0,0
-
- Updated multipliers 13.7419,0,0
-
- Updated multipliers 31.5373,0,0
-
- Updated multipliers 14.6535,0,0
-
- Updated multipliers 28.307,0,0
-
- Updated multipliers 12.703,0,0
-
- Updated multipliers 15.5556,0,0
-
- Updated multipliers 27.2001,0,0
-
- Updated multipliers 7.75864,0,0
-
- Updated multipliers 31.7422,0,0
-
- Updated multipliers 19.3449,0,0
-
- Updated multipliers 21.3778,0,0
-
- Updated multipliers 105.393,15.6715,14.5216
-
- Updated multipliers 15.4828,0,0
-
- Updated multipliers 9.73335,0,0
-
- Updated multipliers 21.1746,0,0
-
- Updated multipliers 87.5797,0,4.75555
-
- Updated multipliers 20.2139,0,0
-
- Updated multipliers 27.3317,0,0
-
- Updated multipliers 22.9855,0,0
-
- Updated multipliers 17.4139,0,0
-
- Updated multipliers 8.76298,0,0
-
- Updated multipliers 3.89656,0,0
-
- Updated multipliers 13.6148,0,0
-
- Updated multipliers 23.6567,0,0
-
- Updated multipliers 28.7208,0,0
-
- Updated multipliers 22.1352,0,0
-
- Updated multipliers 20.603,0,0
-
- Updated multipliers 27.597,0,0
-
- Updated step 0.95111 
+ Updated step 0.1 
 
 Iteration 11 ... 
 
- Found SR solution - value: 9
+ Found SR solution - value: 4
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 20.7326,0,0
+ Current best lower bound 4.3
+ Updated multipliers 0,2.71429,2.78571
 
- Updated multipliers 67.638,0,1.90222
+ Updated multipliers 0,2.31905,2.79405
 
- Updated multipliers 83.6125,9.65521,1.09255
+ Updated multipliers 0,2.84921,2.94444
 
- Updated multipliers 124.628,13.6799,8.66528
+ Updated multipliers 0,1.21739,4.12835
 
- Updated multipliers 33.2407,0,0
+ Updated multipliers 0,3,2.4
 
- Updated multipliers 7.965,0,0
+ Updated multipliers 0,1.88182,2.48409
 
- Updated multipliers 71.7042,11.4133,3.9533
+ Updated multipliers 0,3.3,3.7
 
- Updated multipliers 85.048,0.1712,8.54572
+ Updated multipliers 0,3.75,3.5
 
- Updated multipliers 576.064,338.747,91.5679
+ Updated multipliers 0,14.0505,9.97071
 
- Updated multipliers 69.3936,0,0
+ Updated multipliers 0,6.98106,8.51894
 
- Updated multipliers 83.9374,0,6.00535
-
- Updated multipliers 27.464,0,0
-
- Updated multipliers 13.7419,0,0
-
- Updated multipliers 31.5373,0,0
-
- Updated multipliers 14.6535,0,0
-
- Updated multipliers 28.307,0,0
-
- Updated multipliers 12.703,0,0
-
- Updated multipliers 15.5556,0,0
-
- Updated multipliers 27.2001,0,0
-
- Updated multipliers 7.75864,0,0
-
- Updated multipliers 31.7422,0,0
-
- Updated multipliers 19.3449,0,0
-
- Updated multipliers 21.3778,0,0
-
- Updated multipliers 104.447,0,7.89714
-
- Updated multipliers 15.4828,0,0
-
- Updated multipliers 9.73335,0,0
-
- Updated multipliers 21.1746,0,0
-
- Updated multipliers 85.687,11.3563,0.970132
-
- Updated multipliers 20.2139,0,0
-
- Updated multipliers 27.3317,0,0
-
- Updated multipliers 22.9855,0,0
-
- Updated multipliers 17.4139,0,0
-
- Updated multipliers 4.03121,0,0
-
- Updated multipliers 3.89656,0,0
-
- Updated multipliers 13.6148,0,0
-
- Updated multipliers 21.764,25.5516,9.46355
-
- Updated multipliers 28.7208,0,0
-
- Updated multipliers 22.1352,0,0
-
- Updated multipliers 20.603,0,0
-
- Updated multipliers 27.597,0,0
-
- Updated step 0.946355 
+ Updated step 0.0909091 
 
 Iteration 12 ... 
 
- Found SR solution - value: 10
+ Found SR solution - value: 4
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 20.7326,0,0
+ Current best lower bound 4.3
+ Updated multipliers 0,2.71429,2.78571
 
- Updated multipliers 67.638,0,1.90222
+ Updated multipliers 0,2.31905,2.79405
 
- Updated multipliers 86.4374,0,0
+ Updated multipliers 0,2.84921,2.94444
 
- Updated multipliers 124.628,13.6799,8.66528
+ Updated multipliers 0,1.05072,3.62835
 
- Updated multipliers 33.2407,0,0
+ Updated multipliers 0,2.58333,2.9
 
- Updated multipliers 7.965,0,0
+ Updated multipliers 0,2.13182,2.23409
 
- Updated multipliers 61.3464,0,0
+ Updated multipliers 0,3.3,3.7
 
- Updated multipliers 85.048,1.11282,1.01274
+ Updated multipliers 0,3.75,3.5
 
- Updated multipliers 593.013,310.499,88.743
+ Updated multipliers 0,12.1338,10.4707
 
- Updated multipliers 69.3936,0,0
+ Updated multipliers 0,6.98106,8.51894
 
- Updated multipliers 82.0542,0,0
-
- Updated multipliers 27.464,0,0
-
- Updated multipliers 13.7419,0,0
-
- Updated multipliers 31.5373,0,0
-
- Updated multipliers 14.6535,0,0
-
- Updated multipliers 28.307,0,0
-
- Updated multipliers 12.703,0,0
-
- Updated multipliers 15.5556,0,0
-
- Updated multipliers 27.2001,5.64974,3.76649
-
- Updated multipliers 7.75864,0,0
-
- Updated multipliers 31.7422,0,0
-
- Updated multipliers 19.3449,0,0
-
- Updated multipliers 21.3778,0,0
-
- Updated multipliers 103.505,0,1.30578
-
- Updated multipliers 15.4828,0,0
-
- Updated multipliers 9.73335,0,0
-
- Updated multipliers 21.1746,0,0
-
- Updated multipliers 77.2124,0,0
-
- Updated multipliers 20.2139,0,0
-
- Updated multipliers 27.3317,0,0
-
- Updated multipliers 22.9855,0,0
-
- Updated multipliers 17.4139,0,0
-
- Updated multipliers 4.03121,0,0
-
- Updated multipliers 3.89656,0,0
-
- Updated multipliers 13.6148,0,0
-
- Updated multipliers 73.5533,0,9.46355
-
- Updated multipliers 28.7208,0,0
-
- Updated multipliers 22.1352,0,0
-
- Updated multipliers 20.603,0,0
-
- Updated multipliers 27.597,0,0
-
- Updated step 0.941623 
+ Updated step 0.0833333 
 
 Iteration 13 ... 
 
- Found SR solution - value: 11
+ Found SR solution - value: 4
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 13.2373,20.6121,3.74766
+ Current best lower bound 4.3
+ Updated multipliers 0,2.71429,2.78571
 
- Updated multipliers 67.638,0,0
+ Updated multipliers 0,2.31905,2.79405
 
- Updated multipliers 86.4374,0,0
+ Updated multipliers 0,2.84921,2.94444
 
- Updated multipliers 124.628,0,0
+ Updated multipliers 0,0.896875,3.16682
 
- Updated multipliers 33.2407,0,0
+ Updated multipliers 0,2.58333,2.9
 
- Updated multipliers 7.965,0,0
+ Updated multipliers 0,2.13182,2.23409
 
- Updated multipliers 61.3464,0,0
+ Updated multipliers 0,3.3,3.7
 
- Updated multipliers 84.1111,0,0
+ Updated multipliers 0,2.67308,3.80769
 
- Updated multipliers 619.247,255.221,84.0585
+ Updated multipliers 0,11.0569,11.0861
 
- Updated multipliers 69.3936,0,0
+ Updated multipliers 0,7.21183,8.28817
 
- Updated multipliers 82.0542,0,0
-
- Updated multipliers 27.464,0,0
-
- Updated multipliers 13.7419,0,0
-
- Updated multipliers 31.5373,0,0
-
- Updated multipliers 14.6535,0,0
-
- Updated multipliers 28.307,0,0
-
- Updated multipliers 12.703,0,0
-
- Updated multipliers 13.6818,0,0
-
- Updated multipliers 29.0739,0,0
-
- Updated multipliers 7.75864,0,0
-
- Updated multipliers 31.7422,0,0
-
- Updated multipliers 19.3449,0,0
-
- Updated multipliers 21.3778,0,0
-
- Updated multipliers 99.7573,0,0
-
- Updated multipliers 15.4828,0,0
-
- Updated multipliers 9.73335,0,0
-
- Updated multipliers 21.1746,0,0
-
- Updated multipliers 77.2124,0,0
-
- Updated multipliers 20.2139,0,0
-
- Updated multipliers 27.3317,0,0
-
- Updated multipliers 22.9855,0,0
-
- Updated multipliers 17.4139,0,0
-
- Updated multipliers 4.03121,0,0
-
- Updated multipliers 3.89656,0,0
-
- Updated multipliers 12.6779,0,0
-
- Updated multipliers 66.0579,0,0
-
- Updated multipliers 28.7208,0,0
-
- Updated multipliers 22.1352,0,0
-
- Updated multipliers 20.603,0,0
-
- Updated multipliers 27.597,0,0
-
- Updated step 0.936915 
+ Updated step 0.0769231 
 
 Iteration 14 ... 
 
- Found SR solution - value: 10
+ Found SR solution - value: 4
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 68.2389,0,3.74766
+ Current best lower bound 4.3
+ Updated multipliers 0,2.71429,2.78571
 
- Updated multipliers 65.7735,0,0
+ Updated multipliers 0,2.31905,2.79405
 
- Updated multipliers 85.5051,0,0
+ Updated multipliers 0,2.84921,2.94444
 
- Updated multipliers 124.628,0,0
+ Updated multipliers 0,0.754018,2.73825
 
- Updated multipliers 30.444,0,0
+ Updated multipliers 0,2.58333,2.9
 
- Updated multipliers 7.965,0,0
+ Updated multipliers 0,2.13182,2.23409
 
- Updated multipliers 61.3464,0,0
+ Updated multipliers 0,3.3,3.7
 
- Updated multipliers 84.1111,0,0
+ Updated multipliers 0,1.67308,4.09341
 
- Updated multipliers 628.569,217.931,77.5329
+ Updated multipliers 0,10.0569,11.6575
 
- Updated multipliers 69.3936,0,0
+ Updated multipliers 0,7.42612,8.07388
 
- Updated multipliers 79.2575,0,0
-
- Updated multipliers 27.464,0,0
-
- Updated multipliers 13.7419,0,0
-
- Updated multipliers 31.5373,0,0
-
- Updated multipliers 14.6535,0,0
-
- Updated multipliers 28.307,0,0
-
- Updated multipliers 10.8385,0,0
-
- Updated multipliers 13.6818,0,0
-
- Updated multipliers 29.0739,0,0
-
- Updated multipliers 7.75864,0,0
-
- Updated multipliers 31.7422,0,0
-
- Updated multipliers 19.3449,0,0
-
- Updated multipliers 21.3778,0,0
-
- Updated multipliers 99.7573,0,0
-
- Updated multipliers 15.4828,0,0
-
- Updated multipliers 9.73335,0,0
-
- Updated multipliers 21.1746,0,0
-
- Updated multipliers 72.5512,0,0
-
- Updated multipliers 20.2139,0,0
-
- Updated multipliers 27.3317,0,0
-
- Updated multipliers 22.9855,0,0
-
- Updated multipliers 17.4139,0,0
-
- Updated multipliers 4.03121,0,0
-
- Updated multipliers 3.89656,0,0
-
- Updated multipliers 12.6779,0,0
-
- Updated multipliers 66.0579,0,0
-
- Updated multipliers 28.7208,0,0
-
- Updated multipliers 22.1352,0,0
-
- Updated multipliers 20.603,0,0
-
- Updated multipliers 27.597,0,0
-
- Updated step 0.93223 
+ Updated step 0.0714286 
 
 Iteration 15 ... 
 
- Found SR solution - value: 11
+ Found SR solution - value: 4
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 64.5286,0,0
+ Current best lower bound 4.3
+ Updated multipliers 0,2.71429,2.78571
 
- Updated multipliers 65.7735,0,0
+ Updated multipliers 0,2.31905,2.79405
 
- Updated multipliers 85.5051,0,0
+ Updated multipliers 0,2.84921,2.94444
 
- Updated multipliers 124.628,0,0
+ Updated multipliers 0,0.620685,2.33825
 
- Updated multipliers 24.8786,0,0
+ Updated multipliers 0,2.58333,2.9
 
- Updated multipliers 7.965,0,0
+ Updated multipliers 0,2.13182,2.23409
 
- Updated multipliers 61.3464,0,0
+ Updated multipliers 0,3.3,3.7
 
- Updated multipliers 84.1111,0,0
+ Updated multipliers 0,0.739744,4.36007
 
- Updated multipliers 648.048,162.277,73.8226
+ Updated multipliers 0,9.12358,12.1909
 
- Updated multipliers 69.3936,0,0
+ Updated multipliers 0,7.62612,7.87388
 
- Updated multipliers 79.2575,0,0
-
- Updated multipliers 27.464,0.927569,0
-
- Updated multipliers 13.7419,0,0
-
- Updated multipliers 31.5373,0,0
-
- Updated multipliers 14.6535,0,0
-
- Updated multipliers 28.307,0,0
-
- Updated multipliers 10.8385,0,0
-
- Updated multipliers 13.6818,0,0
-
- Updated multipliers 29.0739,0,0
-
- Updated multipliers 7.75864,0,0
-
- Updated multipliers 31.7422,0,0
-
- Updated multipliers 19.3449,0,0
-
- Updated multipliers 21.3778,0,0
-
- Updated multipliers 99.7573,0,0
-
- Updated multipliers 15.4828,0,0
-
- Updated multipliers 9.73335,0,0
-
- Updated multipliers 21.1746,0,0
-
- Updated multipliers 71.6237,0,0
-
- Updated multipliers 20.2139,0,0
-
- Updated multipliers 27.3317,0,0
-
- Updated multipliers 22.9855,0,0
-
- Updated multipliers 17.4139,0,0
-
- Updated multipliers 4.03121,0,0
-
- Updated multipliers 3.89656,0,0
-
- Updated multipliers 8.96765,0,0
-
- Updated multipliers 66.0579,0,0
-
- Updated multipliers 28.7208,0,0
-
- Updated multipliers 22.1352,0,0.927569
-
- Updated multipliers 20.603,0,0
-
- Updated multipliers 27.597,0,0
-
- Updated step 0.927569 
+ Updated step 0.0666667 
 
 Iteration 16 ... 
 
- Found SR solution - value: 11
+ Found SR solution - value: 4
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 64.5286,0,0
+ Current best lower bound 4.3
+ Updated multipliers 0,1.83929,3.28571
 
- Updated multipliers 65.7735,0,0
+ Updated multipliers 0,2.31905,2.79405
 
- Updated multipliers 83.6593,0,0
+ Updated multipliers 0,2.84921,2.94444
 
- Updated multipliers 124.628,0,0
+ Updated multipliers 0,0,2.02575
 
- Updated multipliers 24.8786,0,0
+ Updated multipliers 0,2.58333,2.9
 
- Updated multipliers 7.965,0,0
+ Updated multipliers 0,2.13182,2.23409
 
- Updated multipliers 61.3464,0,0.922931
+ Updated multipliers 0,3.3,3.7
 
- Updated multipliers 84.1111,0,0
+ Updated multipliers 0,2.05224,4.11007
 
- Updated multipliers 658.2,112.439,67.3621
+ Updated multipliers 0,9.12358,12.1909
 
- Updated multipliers 69.3936,0,0
+ Updated multipliers 0,6.75112,8.12388
 
- Updated multipliers 79.2575,0,0
-
- Updated multipliers 27.464,0,0
-
- Updated multipliers 13.7419,0,0
-
- Updated multipliers 31.5373,0,0
-
- Updated multipliers 14.6535,0,0
-
- Updated multipliers 28.307,0,0
-
- Updated multipliers 10.8385,0,0
-
- Updated multipliers 13.6818,0,0
-
- Updated multipliers 29.0739,0,0
-
- Updated multipliers 7.75864,0,0
-
- Updated multipliers 31.7422,0,0
-
- Updated multipliers 19.3449,0,0
-
- Updated multipliers 21.3778,0,0
-
- Updated multipliers 99.7573,0,0
-
- Updated multipliers 15.4828,0,0
-
- Updated multipliers 8.81042,0,0
-
- Updated multipliers 21.1746,0,0
-
- Updated multipliers 71.6237,0,0
-
- Updated multipliers 20.2139,0,0
-
- Updated multipliers 27.3317,0,0
-
- Updated multipliers 22.9855,0,0
-
- Updated multipliers 17.4139,0,0
-
- Updated multipliers 2.18534,0,0
-
- Updated multipliers 3.89656,0,0
-
- Updated multipliers 8.96765,0,0
-
- Updated multipliers 66.0579,0,0
-
- Updated multipliers 28.7208,0,0
-
- Updated multipliers 22.1352,0,0
-
- Updated multipliers 20.603,0,0
-
- Updated multipliers 27.597,0,0
-
- Updated step 0.922931 
+ Updated step 0.0625 
 
 Iteration 17 ... 
 
- Found SR solution - value: 11
+ Found SR solution - value: 4
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 64.5286,0,0
+ Current best lower bound 4.3
+ Updated multipliers 0,1.01576,3.52101
 
- Updated multipliers 64.8552,0,0
+ Updated multipliers 0,2.43669,2.55875
 
- Updated multipliers 83.6593,0,0
+ Updated multipliers 0,2.55509,3.17974
 
- Updated multipliers 124.628,0,0
+ Updated multipliers 0,0,1.96692
 
- Updated multipliers 24.8786,0,0
+ Updated multipliers 0,2.58333,2.9
 
- Updated multipliers 7.965,0,0
+ Updated multipliers 0,2.13182,2.23409
 
- Updated multipliers 61.3464,0,0.922931
+ Updated multipliers 0,3.3,3.7
 
- Updated multipliers 84.1111,0,0
+ Updated multipliers 0,2.05224,4.11007
 
- Updated multipliers 664.628,77.5429,60.0155
+ Updated multipliers 0,9.12358,12.1909
 
- Updated multipliers 69.3936,0,0
+ Updated multipliers 0,6.75112,8.12388
 
- Updated multipliers 79.2575,0,0
-
- Updated multipliers 27.464,0,0
-
- Updated multipliers 13.7419,11.0198,1.83663
-
- Updated multipliers 31.5373,0,0
-
- Updated multipliers 14.6535,0,0
-
- Updated multipliers 28.307,0,0
-
- Updated multipliers 10.8385,0,0
-
- Updated multipliers 13.6818,0,0
-
- Updated multipliers 29.0739,0,0
-
- Updated multipliers 7.75864,0,0
-
- Updated multipliers 31.7422,0,0
-
- Updated multipliers 19.3449,0,0
-
- Updated multipliers 21.3778,0,0
-
- Updated multipliers 99.7573,0,0
-
- Updated multipliers 15.4828,0,0
-
- Updated multipliers 8.81042,0,0
-
- Updated multipliers 21.1746,0,0
-
- Updated multipliers 71.6237,0,0
-
- Updated multipliers 20.2139,0,0
-
- Updated multipliers 27.3317,0,0
-
- Updated multipliers 22.9855,0,0
-
- Updated multipliers 17.4139,0,0
-
- Updated multipliers 2.18534,0,0
-
- Updated multipliers 3.89656,0,0
-
- Updated multipliers 8.96765,0,0
-
- Updated multipliers 66.0579,0,0
-
- Updated multipliers 28.7208,0,0
-
- Updated multipliers 22.1352,0,0
-
- Updated multipliers 20.603,0,0
-
- Updated multipliers 27.597,0,0
-
- Updated step 0.918316 
+ Updated step 0.0588235 
 
 Iteration 18 ... 
 
- Found SR solution - value: 11
+ Found SR solution - value: 4
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 59.0463,0,0
+ Current best lower bound 4.3
+ Updated multipliers 0,0.237979,3.74323
 
- Updated multipliers 63.0278,0,0
+ Updated multipliers 0,2.54781,2.33653
 
- Updated multipliers 83.6593,0,0
+ Updated multipliers 0,2.27731,3.40196
 
- Updated multipliers 124.628,0,0
+ Updated multipliers 0,0,1.91137
 
- Updated multipliers 19.3962,0,0
+ Updated multipliers 0,2.58333,2.9
 
- Updated multipliers 7.965,0,0
+ Updated multipliers 0,2.13182,2.23409
 
- Updated multipliers 59.5189,0,0
+ Updated multipliers 0,3.3,3.7
 
- Updated multipliers 84.1111,0,0
+ Updated multipliers 0,2.05224,4.11007
 
- Updated multipliers 669.197,36.4253,51.792
+ Updated multipliers 0,9.12358,12.1909
 
- Updated multipliers 69.3936,0,0
+ Updated multipliers 0,6.75112,8.12388
 
- Updated multipliers 79.2575,0,0
-
- Updated multipliers 27.464,0,0
-
- Updated multipliers 41.1537,0,0
-
- Updated multipliers 31.5373,0,0
-
- Updated multipliers 13.7398,0,0
-
- Updated multipliers 28.307,0,0
-
- Updated multipliers 10.8385,0,0
-
- Updated multipliers 7.28568,0.913725,0
-
- Updated multipliers 29.0739,0,0
-
- Updated multipliers 7.75864,0,0
-
- Updated multipliers 31.7422,0,0
-
- Updated multipliers 19.3449,0,0
-
- Updated multipliers 21.3778,0,0
-
- Updated multipliers 99.7573,0,0
-
- Updated multipliers 15.4828,0,0
-
- Updated multipliers 8.81042,0,0
-
- Updated multipliers 21.1746,0,0
-
- Updated multipliers 71.6237,0,0
-
- Updated multipliers 20.2139,0,0
-
- Updated multipliers 27.3317,0,0
-
- Updated multipliers 22.9855,0,0
-
- Updated multipliers 16.5001,0,0
-
- Updated multipliers 2.18534,0,0
-
- Updated multipliers 3.89656,0,0
-
- Updated multipliers 8.96765,0,0
-
- Updated multipliers 66.0579,0,0
-
- Updated multipliers 28.7208,0,0
-
- Updated multipliers 22.1352,0,0
-
- Updated multipliers 16.9481,0,0
-
- Updated multipliers 27.597,0,0
-
- Updated step 0.913725 
+ Updated step 0.0555556 
 
 Iteration 19 ... 
 
- Found SR solution - value: 11
+ Found SR solution - value: 4
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 59.0463,0,0
+ Current best lower bound 4.3
+ Updated multipliers 0,0.237979,3.74323
 
- Updated multipliers 62.1186,0,0
+ Updated multipliers 0,1.81096,2.75758
 
- Updated multipliers 83.6593,0,0
+ Updated multipliers 0,2.27731,3.40196
 
- Updated multipliers 124.628,0,0
+ Updated multipliers 0,1.31579,1.8061
 
- Updated multipliers 19.3962,0,0
+ Updated multipliers 0,2.58333,2.9
 
- Updated multipliers 6.14669,0,0
+ Updated multipliers 0,1.39498,2.44462
 
- Updated multipliers 59.5189,0,0
+ Updated multipliers 0,3.3,3.7
 
- Updated multipliers 84.1111,0,0
+ Updated multipliers 0,0.789086,3.74165
 
- Updated multipliers 671.925,0,44.5188
+ Updated multipliers 0,9.12358,12.1909
 
- Updated multipliers 69.3936,0,0
+ Updated multipliers 0,6.75112,8.12388
 
- Updated multipliers 79.2575,0,0
-
- Updated multipliers 27.464,0,0
-
- Updated multipliers 41.1537,0,0
-
- Updated multipliers 31.5373,0,0
-
- Updated multipliers 13.7398,0,0
-
- Updated multipliers 28.307,0,0
-
- Updated multipliers 10.8385,0,0
-
- Updated multipliers 13.6498,0,0
-
- Updated multipliers 29.0739,0,0
-
- Updated multipliers 6.84949,0,0
-
- Updated multipliers 31.7422,0,0
-
- Updated multipliers 19.3449,0,0
-
- Updated multipliers 21.3778,0,0
-
- Updated multipliers 99.7573,0,0
-
- Updated multipliers 15.4828,1.81831,0
-
- Updated multipliers 8.81042,0,0
-
- Updated multipliers 21.1746,0,0
-
- Updated multipliers 71.6237,0,0
-
- Updated multipliers 20.2139,0,0
-
- Updated multipliers 27.3317,0,0
-
- Updated multipliers 22.9855,0,0
-
- Updated multipliers 16.5001,0,0
-
- Updated multipliers 2.18534,0,0
-
- Updated multipliers 3.89656,0,0
-
- Updated multipliers 8.96765,0,0
-
- Updated multipliers 66.0579,0,0
-
- Updated multipliers 28.7208,0,0
-
- Updated multipliers 22.1352,0,0
-
- Updated multipliers 16.9481,0,0
-
- Updated multipliers 27.597,0,0
-
- Updated step 0.909156 
+ Updated step 0.0526316 
 
 Iteration 20 ... 
 
- Found SR solution - value: 11
+ Found SR solution - value: 4
  The solution is not feasible.
- Current best lower bound 11.1277
- Updated multipliers 59.0463,0,0
+ Current best lower bound 4.3
+ Updated multipliers 0,1.48798,3.64323
 
- Updated multipliers 62.1186,0,1.80922
+ Updated multipliers 0,1.81096,2.75758
 
- Updated multipliers 83.6593,0,0
+ Updated multipliers 0,2.27731,3.40196
 
- Updated multipliers 124.628,0,0
+ Updated multipliers 0,1.31579,1.8061
 
- Updated multipliers 19.3962,0,0
+ Updated multipliers 0,1.88333,3.1
 
- Updated multipliers 6.14669,0,0
+ Updated multipliers 0,0.194976,2.09462
 
- Updated multipliers 59.5189,0,0
+ Updated multipliers 0,2.6,4.1
 
- Updated multipliers 84.1111,0,0
+ Updated multipliers 0,0.789086,3.74165
 
- Updated multipliers 671.925,0,44.5188
+ Updated multipliers 0,9.12358,12.1909
 
- Updated multipliers 69.3936,0,0
+ Updated multipliers 0,6.75112,8.12388
 
- Updated multipliers 79.2575,0,0
-
- Updated multipliers 27.464,0,0
-
- Updated multipliers 41.1537,0,0
-
- Updated multipliers 31.5373,0,0
-
- Updated multipliers 13.7398,0,0
-
- Updated multipliers 28.307,0,0
-
- Updated multipliers 10.8385,0,0
-
- Updated multipliers 13.6498,0,0
-
- Updated multipliers 29.0739,0,0
-
- Updated multipliers 6.84949,0,0
-
- Updated multipliers 31.7422,0,0
-
- Updated multipliers 19.3449,0,0
-
- Updated multipliers 21.3778,0,0
-
- Updated multipliers 99.7573,0,0
-
- Updated multipliers 20.9105,0,0
-
- Updated multipliers 8.81042,0,0
-
- Updated multipliers 21.1746,0,0
-
- Updated multipliers 71.6237,0,0
-
- Updated multipliers 20.2139,0,0
-
- Updated multipliers 27.3317,0,0
-
- Updated multipliers 22.9855,0,0
-
- Updated multipliers 16.5001,0,0
-
- Updated multipliers 2.18534,0,0
-
- Updated multipliers 3.89656,0,0
-
- Updated multipliers 8.96765,0,0
-
- Updated multipliers 66.0579,0,0
-
- Updated multipliers 28.7208,0,0
-
- Updated multipliers 22.1352,0,0
-
- Updated multipliers 16.9481,0,0
-
- Updated multipliers 27.597,0,0
-
- Updated step 0.90461 
+ Updated step 0.05 
 
 Iteration 21 ... 
 
- Found SR solution - value: 12
- Feasible solution found - value: 12
- Current best lower bound 12
- Optimal found! 
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.821312,3.83371
 
- solution 12
- iterations 21, time 65.4841
+ Updated multipliers 0,1.9062,2.56711
+
+ Updated multipliers 0,1.9916,3.54482
+
+ Updated multipliers 0,0.887218,1.8061
+
+ Updated multipliers 0,1.88333,3.1
+
+ Updated multipliers 0,0.194976,2.09462
+
+ Updated multipliers 0,2.6,4.1
+
+ Updated multipliers 0,0.789086,3.74165
+
+ Updated multipliers 0,9.12358,12.1909
+
+ Updated multipliers 0,6.75112,8.12388
+
+ Updated step 0.047619 
+
+Iteration 22 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.821312,3.83371
+
+ Updated multipliers 0,1.9062,2.56711
+
+ Updated multipliers 0,1.9916,3.54482
+
+ Updated multipliers 0,0.887218,1.8061
+
+ Updated multipliers 0,1.88333,3.1
+
+ Updated multipliers 0,1.14952,1.9128
+
+ Updated multipliers 0,2.6,4.1
+
+ Updated multipliers 0,0,3.51438
+
+ Updated multipliers 0,8.48722,12.3727
+
+ Updated multipliers 0,6.11475,8.48752
+
+ Updated step 0.0454545 
+
+Iteration 23 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.821312,3.83371
+
+ Updated multipliers 0,1.9062,2.56711
+
+ Updated multipliers 0,1.9916,3.54482
+
+ Updated multipliers 0,0.887218,1.8061
+
+ Updated multipliers 0,1.88333,3.1
+
+ Updated multipliers 0,1.14952,1.9128
+
+ Updated multipliers 0,1.9913,4.1
+
+ Updated multipliers 0,0.565217,3.4709
+
+ Updated multipliers 0,7.96548,12.1988
+
+ Updated multipliers 0,5.50606,8.83535
+
+ Updated step 0.0434783 
+
+Iteration 24 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0,3.62537
+
+ Updated multipliers 0,1.32287,2.90044
+
+ Updated multipliers 0,1.9916,3.54482
+
+ Updated multipliers 0,0.887218,1.8061
+
+ Updated multipliers 0,1.88333,3.1
+
+ Updated multipliers 0,1.14952,1.9128
+
+ Updated multipliers 0,1.9913,4.1
+
+ Updated multipliers 0,1.44022,3.30423
+
+ Updated multipliers 0,7.38215,12.3654
+
+ Updated multipliers 0,5.50606,8.83535
+
+ Updated step 0.0416667 
+
+Iteration 25 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.08,3.62537
+
+ Updated multipliers 0,1.44287,2.78044
+
+ Updated multipliers 0,1.4716,3.66482
+
+ Updated multipliers 0,0.127218,1.9261
+
+ Updated multipliers 0,1.88333,3.1
+
+ Updated multipliers 0,1.14952,1.9128
+
+ Updated multipliers 0,1.9913,4.1
+
+ Updated multipliers 0,1.44022,3.30423
+
+ Updated multipliers 0,7.38215,12.3654
+
+ Updated multipliers 0,5.50606,8.83535
+
+ Updated step 0.04 
+
+Iteration 26 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.08,3.62537
+
+ Updated multipliers 0,1.44287,2.78044
+
+ Updated multipliers 0,1.4716,3.66482
+
+ Updated multipliers 0,0.127218,1.9261
+
+ Updated multipliers 0,1.88333,3.1
+
+ Updated multipliers 0,1.14952,1.9128
+
+ Updated multipliers 0,2.14515,4.02308
+
+ Updated multipliers 0,0.670987,3.26577
+
+ Updated multipliers 0,7.49753,12.2885
+
+ Updated multipliers 0,4.96759,9.14304
+
+ Updated step 0.0384615 
+
+Iteration 27 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,1.00593,3.5513
+
+ Updated multipliers 0,1.44287,2.78044
+
+ Updated multipliers 0,1.4716,3.66482
+
+ Updated multipliers 0,0.127218,1.9261
+
+ Updated multipliers 0,1.21667,3.17407
+
+ Updated multipliers 0,1.14952,1.9128
+
+ Updated multipliers 0,2.14515,4.02308
+
+ Updated multipliers 0,0.226542,3.11762
+
+ Updated multipliers 0,6.68272,12.5478
+
+ Updated multipliers 0,4.96759,9.14304
+
+ Updated step 0.037037 
+
+Iteration 28 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.29164,3.37273
+
+ Updated multipliers 0,1.44287,2.78044
+
+ Updated multipliers 0,1.4716,3.66482
+
+ Updated multipliers 0,0.127218,1.9261
+
+ Updated multipliers 0,1.21667,3.17407
+
+ Updated multipliers 0,0.649522,2.19851
+
+ Updated multipliers 0,2.14515,4.02308
+
+ Updated multipliers 0,0.976542,2.97477
+
+ Updated multipliers 0,6.68272,12.5478
+
+ Updated multipliers 0,4.46759,9.2859
+
+ Updated step 0.0357143 
+
+Iteration 29 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.29164,3.37273
+
+ Updated multipliers 0,1.44287,2.78044
+
+ Updated multipliers 0,1.4716,3.66482
+
+ Updated multipliers 0,0.127218,1.9261
+
+ Updated multipliers 0,1.21667,3.17407
+
+ Updated multipliers 0,0.649522,2.19851
+
+ Updated multipliers 0,2.2486,3.91963
+
+ Updated multipliers 0,0.390335,3.07822
+
+ Updated multipliers 0,6.47582,12.5822
+
+ Updated multipliers 0,4.22622,9.35486
+
+ Updated step 0.0344828 
+
+Iteration 30 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.29164,3.37273
+
+ Updated multipliers 0,1.44287,2.78044
+
+ Updated multipliers 0,0.80493,3.49815
+
+ Updated multipliers 0,0.827218,1.79277
+
+ Updated multipliers 0,1.21667,3.17407
+
+ Updated multipliers 0,0.649522,2.19851
+
+ Updated multipliers 0,1.78193,4.1863
+
+ Updated multipliers 0,0.390335,3.07822
+
+ Updated multipliers 0,6.00915,12.7156
+
+ Updated multipliers 0,4.22622,9.35486
+
+ Updated step 0.0333333 
+
+Iteration 31 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.29164,3.37273
+
+ Updated multipliers 0,0.958997,2.78044
+
+ Updated multipliers 0,0.80493,3.49815
+
+ Updated multipliers 0,0.246573,1.85729
+
+ Updated multipliers 0,1.21667,3.17407
+
+ Updated multipliers 0,0.649522,2.19851
+
+ Updated multipliers 0,1.78193,4.1863
+
+ Updated multipliers 0,1.06775,2.94918
+
+ Updated multipliers 0,5.52528,12.8769
+
+ Updated multipliers 0,4.22622,9.35486
+
+ Updated step 0.0322581 
+
+Iteration 32 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.94789,3.24773
+
+ Updated multipliers 0,0.958997,2.78044
+
+ Updated multipliers 0,0.80493,3.49815
+
+ Updated multipliers 0,0.246573,1.85729
+
+ Updated multipliers 0,1.21667,3.17407
+
+ Updated multipliers 0,0.649522,2.19851
+
+ Updated multipliers 0,1.65693,4.21755
+
+ Updated multipliers 0,1.06775,2.94918
+
+ Updated multipliers 0,4.99403,13.0019
+
+ Updated multipliers 0,3.38247,9.41736
+
+ Updated step 0.03125 
+
+Iteration 33 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.94789,3.24773
+
+ Updated multipliers 0,0.958997,2.78044
+
+ Updated multipliers 0,0.80493,3.49815
+
+ Updated multipliers 0,0.246573,1.85729
+
+ Updated multipliers 0,1.21667,3.17407
+
+ Updated multipliers 0,0.649522,2.19851
+
+ Updated multipliers 0,1.74784,4.12664
+
+ Updated multipliers 0,0.552603,3.04009
+
+ Updated multipliers 0,4.81221,13.0322
+
+ Updated multipliers 0,3.17034,9.47797
+
+ Updated step 0.030303 
+
+Iteration 34 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.94789,3.24773
+
+ Updated multipliers 0,0.958997,2.78044
+
+ Updated multipliers 0,0.80493,3.49815
+
+ Updated multipliers 0,0.246573,1.85729
+
+ Updated multipliers 0,1.21667,3.17407
+
+ Updated multipliers 0,0.649522,2.19851
+
+ Updated multipliers 0,1.83608,4.0384
+
+ Updated multipliers 0,0.0526031,3.12833
+
+ Updated multipliers 0,4.63574,13.0616
+
+ Updated multipliers 0,2.96446,9.53679
+
+ Updated step 0.0294118 
+
+Iteration 35 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.94789,3.24773
+
+ Updated multipliers 0,0.958997,2.78044
+
+ Updated multipliers 0,0.80493,3.49815
+
+ Updated multipliers 0,0.246573,1.85729
+
+ Updated multipliers 0,1.21667,3.17407
+
+ Updated multipliers 0,0.649522,2.19851
+
+ Updated multipliers 0,1.92179,3.95269
+
+ Updated multipliers 0,0,3.09976
+
+ Updated multipliers 0,4.20717,13.2044
+
+ Updated multipliers 0,2.76446,9.59393
+
+ Updated step 0.0285714 
+
+Iteration 36 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.94789,3.24773
+
+ Updated multipliers 0,0.958997,2.78044
+
+ Updated multipliers 0,0.80493,3.49815
+
+ Updated multipliers 0,0.246573,1.85729
+
+ Updated multipliers 0,1.21667,3.17407
+
+ Updated multipliers 0,0.649522,2.19851
+
+ Updated multipliers 0,1.7829,4.00824
+
+ Updated multipliers 0,0,2.96087
+
+ Updated multipliers 0,3.81828,13.3156
+
+ Updated multipliers 0,2.57002,9.64949
+
+ Updated step 0.0277778 
+
+Iteration 37 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.94789,3.24773
+
+ Updated multipliers 0,0.958997,2.78044
+
+ Updated multipliers 0,0.80493,3.49815
+
+ Updated multipliers 0,0.246573,1.85729
+
+ Updated multipliers 0,0.649099,3.33624
+
+ Updated multipliers 0,0.649522,2.19851
+
+ Updated multipliers 0,1.64777,4.0623
+
+ Updated multipliers 0,0.891892,2.93384
+
+ Updated multipliers 0,2.89936,13.2074
+
+ Updated multipliers 0,2.57002,9.64949
+
+ Updated step 0.027027 
+
+Iteration 38 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.94789,3.24773
+
+ Updated multipliers 0,0.958997,2.78044
+
+ Updated multipliers 0,0.80493,3.49815
+
+ Updated multipliers 0,0.509731,1.77834
+
+ Updated multipliers 0,0.728046,3.25729
+
+ Updated multipliers 0,0.649522,2.19851
+
+ Updated multipliers 0,1.06882,4.24651
+
+ Updated multipliers 0,0.418208,2.98647
+
+ Updated multipliers 0,2.89936,13.2074
+
+ Updated multipliers 0,2.57002,9.64949
+
+ Updated step 0.0263158 
+
+Iteration 39 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.486352,3.29901
+
+ Updated multipliers 0,0.394895,2.95993
+
+ Updated multipliers 0,0.80493,3.49815
+
+ Updated multipliers 0,0.509731,1.77834
+
+ Updated multipliers 0,0.728046,3.25729
+
+ Updated multipliers 0,0.649522,2.19851
+
+ Updated multipliers 0,1.06882,4.24651
+
+ Updated multipliers 0,0.674618,2.90955
+
+ Updated multipliers 0,2.89936,13.2074
+
+ Updated multipliers 0,2.64694,9.57257
+
+ Updated step 0.025641 
+
+Iteration 40 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0,3.29901
+
+ Updated multipliers 0,0.919895,2.85993
+
+ Updated multipliers 0,0.80493,3.49815
+
+ Updated multipliers 0,0.359731,1.80334
+
+ Updated multipliers 0,0.728046,3.25729
+
+ Updated multipliers 0,0.124522,2.34851
+
+ Updated multipliers 0,1.06882,4.24651
+
+ Updated multipliers 0,0.674618,2.90955
+
+ Updated multipliers 0,2.89936,13.2074
+
+ Updated multipliers 0,2.64694,9.57257
+
+ Updated step 0.025 
+
+Iteration 41 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.804878,3.27462
+
+ Updated multipliers 0,0.38331,3.03066
+
+ Updated multipliers 0,0.80493,3.49815
+
+ Updated multipliers 0,0.359731,1.80334
+
+ Updated multipliers 0,0.728046,3.25729
+
+ Updated multipliers 0,0.124522,2.34851
+
+ Updated multipliers 0,0.922478,4.2709
+
+ Updated multipliers 0,0.674618,2.90955
+
+ Updated multipliers 0,2.89936,13.2074
+
+ Updated multipliers 0,1.86645,9.47501
+
+ Updated step 0.0243902 
+
+Iteration 42 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.638211,3.29843
+
+ Updated multipliers 0,0.38331,3.03066
+
+ Updated multipliers 0,0.376359,3.54577
+
+ Updated multipliers 0,0.359731,1.80334
+
+ Updated multipliers 0,0.728046,3.25729
+
+ Updated multipliers 0,0.71976,2.30089
+
+ Updated multipliers 0,0.922478,4.2709
+
+ Updated multipliers 0,0.0317608,2.95717
+
+ Updated multipliers 0,2.89936,13.2074
+
+ Updated multipliers 0,1.86645,9.47501
+
+ Updated step 0.0238095 
+
+Iteration 43 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.638211,3.29843
+
+ Updated multipliers 0,0.38331,3.03066
+
+ Updated multipliers 0,0.376359,3.54577
+
+ Updated multipliers 0,0.359731,1.80334
+
+ Updated multipliers 0,0.286186,3.32706
+
+ Updated multipliers 0,0.231388,2.44043
+
+ Updated multipliers 0,0.922478,4.2709
+
+ Updated multipliers 0,0.613156,2.91066
+
+ Updated multipliers 0,2.62029,13.1144
+
+ Updated multipliers 0,1.86645,9.47501
+
+ Updated step 0.0232558 
+
+Iteration 44 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.638211,3.29843
+
+ Updated multipliers 0,0.38331,3.03066
+
+ Updated multipliers 0,0.376359,3.54577
+
+ Updated multipliers 0,0.359731,1.80334
+
+ Updated multipliers 0,0.286186,3.32706
+
+ Updated multipliers 0,0.231388,2.44043
+
+ Updated multipliers 0,0.786114,4.29362
+
+ Updated multipliers 0,0.226793,2.97884
+
+ Updated multipliers 0,2.48393,13.1371
+
+ Updated multipliers 0,1.91191,9.42955
+
+ Updated step 0.0227273 
+
+Iteration 45 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.638211,3.29843
+
+ Updated multipliers 0,0.38331,3.03066
+
+ Updated multipliers 0,0.376359,3.54577
+
+ Updated multipliers 0,0.204175,1.82556
+
+ Updated multipliers 0,0.286186,3.32706
+
+ Updated multipliers 0,0.231388,2.44043
+
+ Updated multipliers 0,0.408337,4.36029
+
+ Updated multipliers 0,0.782348,2.93439
+
+ Updated multipliers 0,2.48393,13.1371
+
+ Updated multipliers 0,1.28968,9.45177
+
+ Updated step 0.0222222 
+
+Iteration 46 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.268646,3.36365
+
+ Updated multipliers 0,0.38331,3.03066
+
+ Updated multipliers 0,0.83288,3.45881
+
+ Updated multipliers 0,0.204175,1.82556
+
+ Updated multipliers 0,0.286186,3.32706
+
+ Updated multipliers 0,0.231388,2.44043
+
+ Updated multipliers 0,0.408337,4.36029
+
+ Updated multipliers 0,0.282348,3.06483
+
+ Updated multipliers 0,2.48393,13.1371
+
+ Updated multipliers 0,1.11577,9.4083
+
+ Updated step 0.0217391 
+
+Iteration 47 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.800561,3.32109
+
+ Updated multipliers 0,0,3.05194
+
+ Updated multipliers 0,0.683944,3.48009
+
+ Updated multipliers 0,0.204175,1.82556
+
+ Updated multipliers 0,0.286186,3.32706
+
+ Updated multipliers 0,0.231388,2.44043
+
+ Updated multipliers 0,0.408337,4.36029
+
+ Updated multipliers 0,0.282348,3.06483
+
+ Updated multipliers 0,2.12223,13.201
+
+ Updated multipliers 0,1.11577,9.4083
+
+ Updated step 0.0212766 
+
+Iteration 48 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.446394,3.40443
+
+ Updated multipliers 0,0.5625,3.05194
+
+ Updated multipliers 0,0.329777,3.54259
+
+ Updated multipliers 0,0.204175,1.82556
+
+ Updated multipliers 0,0.286186,3.32706
+
+ Updated multipliers 0,0.231388,2.44043
+
+ Updated multipliers 0,0.408337,4.36029
+
+ Updated multipliers 0,0.282348,3.06483
+
+ Updated multipliers 0,2.12223,13.201
+
+ Updated multipliers 0,0.699105,9.32496
+
+ Updated step 0.0208333 
+
+Iteration 49 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.446394,3.40443
+
+ Updated multipliers 0,0.0522959,3.11316
+
+ Updated multipliers 0,0.329777,3.54259
+
+ Updated multipliers 0,0,1.86638
+
+ Updated multipliers 0,0.286186,3.32706
+
+ Updated multipliers 0,0.231388,2.44043
+
+ Updated multipliers 0,0.224663,4.36029
+
+ Updated multipliers 0,0.282348,3.06483
+
+ Updated multipliers 0,2.12223,13.201
+
+ Updated multipliers 0,1.20931,9.28415
+
+ Updated step 0.0204082 
+
+Iteration 50 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0,3.46443
+
+ Updated multipliers 0,0.0522959,3.11316
+
+ Updated multipliers 0,0.329777,3.54259
+
+ Updated multipliers 0,0.54,1.86638
+
+ Updated multipliers 0,0.286186,3.32706
+
+ Updated multipliers 0,0.231388,2.44043
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0.282348,3.06483
+
+ Updated multipliers 0,2.12223,13.201
+
+ Updated multipliers 0,0.849309,9.32415
+
+ Updated step 0.02 
+
+Iteration 51 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.294118,3.46443
+
+ Updated multipliers 0,0.0130802,2.99551
+
+ Updated multipliers 0,0.329777,3.54259
+
+ Updated multipliers 0,0.128235,1.98402
+
+ Updated multipliers 0,0.286186,3.32706
+
+ Updated multipliers 0,0.231388,2.44043
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0.282348,3.06483
+
+ Updated multipliers 0,1.74968,13.2598
+
+ Updated multipliers 0,0.849309,9.32415
+
+ Updated step 0.0196078 
+
+Iteration 52 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.294118,3.46443
+
+ Updated multipliers 0,0.51308,2.97628
+
+ Updated multipliers 0,0.329777,3.54259
+
+ Updated multipliers 0,0.128235,1.98402
+
+ Updated multipliers 0,0.286186,3.32706
+
+ Updated multipliers 0,0.231388,2.44043
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0.147733,3.06483
+
+ Updated multipliers 0,1.40353,13.2983
+
+ Updated multipliers 0,0.310848,9.36261
+
+ Updated step 0.0192308 
+
+Iteration 53 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.294118,3.46443
+
+ Updated multipliers 0,0.15459,3.03289
+
+ Updated multipliers 0,0.178834,3.54259
+
+ Updated multipliers 0,0.128235,1.98402
+
+ Updated multipliers 0,0.286186,3.32706
+
+ Updated multipliers 0,0.231388,2.44043
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0,3.0837
+
+ Updated multipliers 0,1.40353,13.2983
+
+ Updated multipliers 0,0.801414,9.34374
+
+ Updated step 0.0188679 
+
+Iteration 54 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.294118,3.46443
+
+ Updated multipliers 0,0.15459,3.03289
+
+ Updated multipliers 0,0,3.56111
+
+ Updated multipliers 0,0.128235,1.98402
+
+ Updated multipliers 0,0.286186,3.32706
+
+ Updated multipliers 0,0.231388,2.44043
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0.5,3.0837
+
+ Updated multipliers 0,1.40353,13.2983
+
+ Updated multipliers 0,0.282895,9.38078
+
+ Updated step 0.0185185 
+
+Iteration 55 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.294118,3.46443
+
+ Updated multipliers 0,0.15459,3.03289
+
+ Updated multipliers 0,0.490909,3.56111
+
+ Updated multipliers 0,0,2.00221
+
+ Updated multipliers 0,0.286186,3.32706
+
+ Updated multipliers 0,0.231388,2.44043
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0,3.12006
+
+ Updated multipliers 0,1.40353,13.2983
+
+ Updated multipliers 0,0.282895,9.38078
+
+ Updated step 0.0181818 
+
+Iteration 56 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0,3.50014
+
+ Updated multipliers 0,0.15459,3.03289
+
+ Updated multipliers 0,0.169481,3.59682
+
+ Updated multipliers 0,0.464286,1.98435
+
+ Updated multipliers 0,0.286186,3.32706
+
+ Updated multipliers 0,0.231388,2.44043
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0,3.12006
+
+ Updated multipliers 0,1.40353,13.2983
+
+ Updated multipliers 0,0.282895,9.38078
+
+ Updated step 0.0178571 
+
+Iteration 57 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.578947,3.4826
+
+ Updated multipliers 0,0,3.05043
+
+ Updated multipliers 0,0.169481,3.59682
+
+ Updated multipliers 0,0.130952,2.03698
+
+ Updated multipliers 0,0.286186,3.32706
+
+ Updated multipliers 0,0.231388,2.44043
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0,3.12006
+
+ Updated multipliers 0,1.40353,13.2983
+
+ Updated multipliers 0,0.282895,9.38078
+
+ Updated step 0.0175439 
+
+Iteration 58 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.251361,3.53432
+
+ Updated multipliers 0,0.465517,3.05043
+
+ Updated multipliers 0,0.169481,3.59682
+
+ Updated multipliers 0,0.130952,2.03698
+
+ Updated multipliers 0,0.0275653,3.3443
+
+ Updated multipliers 0,0.231388,2.44043
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0,3.10282
+
+ Updated multipliers 0,1.40353,13.2983
+
+ Updated multipliers 0,0.282895,9.38078
+
+ Updated step 0.0172414 
+
+Iteration 59 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.251361,3.53432
+
+ Updated multipliers 0,0.160432,3.08433
+
+ Updated multipliers 0,0.169481,3.59682
+
+ Updated multipliers 0,0.130952,2.03698
+
+ Updated multipliers 0,0.0275653,3.3443
+
+ Updated multipliers 0,0,2.47433
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0,3.10282
+
+ Updated multipliers 0,1.28488,13.2983
+
+ Updated multipliers 0,0.723573,9.36383
+
+ Updated step 0.0169492 
+
+Iteration 60 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.251361,3.53432
+
+ Updated multipliers 0,0.160432,3.08433
+
+ Updated multipliers 0,0.169481,3.59682
+
+ Updated multipliers 0,0.130952,2.03698
+
+ Updated multipliers 0,0.0275653,3.3443
+
+ Updated multipliers 0,0.45,2.47433
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0.0333333,3.10282
+
+ Updated multipliers 0,0.801548,13.3149
+
+ Updated multipliers 0,0.273573,9.39716
+
+ Updated step 0.0166667 
+
+Iteration 61 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.251361,3.53432
+
+ Updated multipliers 0,0,3.08433
+
+ Updated multipliers 0,0.169481,3.59682
+
+ Updated multipliers 0,0.130952,2.03698
+
+ Updated multipliers 0,0.568549,3.3279
+
+ Updated multipliers 0,0.171311,2.52351
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0.0333333,3.10282
+
+ Updated multipliers 0,0.342531,13.3313
+
+ Updated multipliers 0,0.273573,9.39716
+
+ Updated step 0.0163934 
+
+Iteration 62 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0,3.55045
+
+ Updated multipliers 0,0.532258,3.0682
+
+ Updated multipliers 0,0.169481,3.59682
+
+ Updated multipliers 0,0,2.03698
+
+ Updated multipliers 0,0.262097,3.37629
+
+ Updated multipliers 0,0.171311,2.52351
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0.0333333,3.10282
+
+ Updated multipliers 0,0.342531,13.3313
+
+ Updated multipliers 0,0.273573,9.39716
+
+ Updated step 0.016129 
+
+Iteration 63 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.428571,3.55045
+
+ Updated multipliers 0,0.532258,3.0682
+
+ Updated multipliers 0,0,3.6127
+
+ Updated multipliers 0,0,2.03698
+
+ Updated multipliers 0,0,3.40804
+
+ Updated multipliers 0,0.171311,2.52351
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0.0333333,3.10282
+
+ Updated multipliers 0,0.342531,13.3313
+
+ Updated multipliers 0,0.273573,9.39716
+
+ Updated step 0.015873 
+
+Iteration 64 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.428571,3.55045
+
+ Updated multipliers 0,0.235383,3.11508
+
+ Updated multipliers 0,0.21875,3.6127
+
+ Updated multipliers 0,0,2.03698
+
+ Updated multipliers 0,0,3.40804
+
+ Updated multipliers 0,0,2.52351
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0.0333333,3.10282
+
+ Updated multipliers 0,0.342531,13.3313
+
+ Updated multipliers 0,0.273573,9.39716
+
+ Updated step 0.015625 
+
+Iteration 65 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.151648,3.58122
+
+ Updated multipliers 0,0,3.14584
+
+ Updated multipliers 0,0.21875,3.6127
+
+ Updated multipliers 0,0,2.03698
+
+ Updated multipliers 0,0.507692,3.39265
+
+ Updated multipliers 0,0,2.52351
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0.0333333,3.10282
+
+ Updated multipliers 0,0.342531,13.3313
+
+ Updated multipliers 0,0.273573,9.39716
+
+ Updated step 0.0153846 
+
+Iteration 66 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0,3.59637
+
+ Updated multipliers 0,0.409091,3.14584
+
+ Updated multipliers 0,0.21875,3.6127
+
+ Updated multipliers 0,0,2.03698
+
+ Updated multipliers 0,0.0986014,3.42296
+
+ Updated multipliers 0,0,2.52351
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0.0333333,3.10282
+
+ Updated multipliers 0,0.342531,13.3313
+
+ Updated multipliers 0,0.273573,9.39716
+
+ Updated step 0.0151515 
+
+Iteration 67 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0,3.59637
+
+ Updated multipliers 0,0,3.1757
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.03698
+
+ Updated multipliers 0,0.0986014,3.42296
+
+ Updated multipliers 0,0.402985,2.52351
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0.0333333,3.10282
+
+ Updated multipliers 0,0.342531,13.3313
+
+ Updated multipliers 0,0.273573,9.39716
+
+ Updated step 0.0149254 
+
+Iteration 68 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0,3.59637
+
+ Updated multipliers 0,0,3.1757
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0.205882,2.03698
+
+ Updated multipliers 0,0,3.42296
+
+ Updated multipliers 0,0.123573,2.56763
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0.0333333,3.10282
+
+ Updated multipliers 0,0.342531,13.3313
+
+ Updated multipliers 0,0.0529851,9.39716
+
+ Updated step 0.0147059 
+
+Iteration 69 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 4.3
+ Updated multipliers 0,0.391304,3.59637
+
+ Updated multipliers 0,0,3.1757
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.06597
+
+ Updated multipliers 0,0,3.42296
+
+ Updated multipliers 0,0,2.58212
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0.0333333,3.10282
+
+ Updated multipliers 0,0.342531,13.3313
+
+ Updated multipliers 0,0.0529851,9.39716
+
+ Updated step 0.0144928 
+
+Iteration 70 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.10559,3.58209
+
+ Updated multipliers 0,0.357143,3.14712
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.06597
+
+ Updated multipliers 0,0,3.36581
+
+ Updated multipliers 0,0,2.58212
+
+ Updated multipliers 0,0.00466304,4.32029
+
+ Updated multipliers 0,0.0333333,3.10282
+
+ Updated multipliers 0,0.342531,13.3313
+
+ Updated multipliers 0,0.0529851,9.39716
+
+ Updated step 0.0142857 
+
+Iteration 71 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.10559,3.58209
+
+ Updated multipliers 0,0.357143,3.14712
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.06597
+
+ Updated multipliers 0,0,3.36581
+
+ Updated multipliers 0,0,2.52578
+
+ Updated multipliers 0,0,4.29212
+
+ Updated multipliers 0,0,3.10282
+
+ Updated multipliers 0,0.0467566,13.3313
+
+ Updated multipliers 0,0.0952386,9.38308
+
+ Updated step 0.0140845 
+
+Iteration 72 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.10559,3.58209
+
+ Updated multipliers 0,0.357143,3.14712
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.06597
+
+ Updated multipliers 0,0,3.36581
+
+ Updated multipliers 0,0,2.47022
+
+ Updated multipliers 0,0,4.26434
+
+ Updated multipliers 0,0,3.10282
+
+ Updated multipliers 0,0,13.3313
+
+ Updated multipliers 0,0.136905,9.36919
+
+ Updated step 0.0138889 
+
+Iteration 73 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.10559,3.58209
+
+ Updated multipliers 0,0.357143,3.14712
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.06597
+
+ Updated multipliers 0,0,3.36581
+
+ Updated multipliers 0,0,2.41543
+
+ Updated multipliers 0,0,4.23695
+
+ Updated multipliers 0,0,3.10282
+
+ Updated multipliers 0,0,13.3313
+
+ Updated multipliers 0,0.178001,9.35549
+
+ Updated step 0.0136986 
+
+Iteration 74 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.10559,3.58209
+
+ Updated multipliers 0,0.357143,3.14712
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.06597
+
+ Updated multipliers 0,0,3.36581
+
+ Updated multipliers 0,0,2.36138
+
+ Updated multipliers 0,0,4.20992
+
+ Updated multipliers 0,0,3.10282
+
+ Updated multipliers 0,0,13.3313
+
+ Updated multipliers 0,0.218542,9.34197
+
+ Updated step 0.0135135 
+
+Iteration 75 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.10559,3.58209
+
+ Updated multipliers 0,0.357143,3.14712
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.06597
+
+ Updated multipliers 0,0,3.36581
+
+ Updated multipliers 0,0,2.30804
+
+ Updated multipliers 0,0,4.18325
+
+ Updated multipliers 0,0,3.10282
+
+ Updated multipliers 0,0,13.3313
+
+ Updated multipliers 0,0.258542,9.32864
+
+ Updated step 0.0133333 
+
+Iteration 76 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.10559,3.58209
+
+ Updated multipliers 0,0.357143,3.14712
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.06597
+
+ Updated multipliers 0,0,3.36581
+
+ Updated multipliers 0,0,2.25541
+
+ Updated multipliers 0,0,4.15694
+
+ Updated multipliers 0,0,3.10282
+
+ Updated multipliers 0,0,13.3313
+
+ Updated multipliers 0,0.298015,9.31548
+
+ Updated step 0.0131579 
+
+Iteration 77 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.10559,3.58209
+
+ Updated multipliers 0,0.357143,3.14712
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.06597
+
+ Updated multipliers 0,0,3.36581
+
+ Updated multipliers 0,0,2.20346
+
+ Updated multipliers 0,0,4.13096
+
+ Updated multipliers 0,0,3.10282
+
+ Updated multipliers 0,0,13.3313
+
+ Updated multipliers 0,0.336976,9.3025
+
+ Updated step 0.012987 
+
+Iteration 78 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.10559,3.58209
+
+ Updated multipliers 0,0,3.17276
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.06597
+
+ Updated multipliers 0,0,3.36581
+
+ Updated multipliers 0,0,2.20346
+
+ Updated multipliers 0,0.192308,4.13096
+
+ Updated multipliers 0,0,3.10282
+
+ Updated multipliers 0,0.179487,13.3313
+
+ Updated multipliers 0,0,9.31532
+
+ Updated step 0.0128205 
+
+Iteration 79 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0,3.54411
+
+ Updated multipliers 0,0,3.17276
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.06597
+
+ Updated multipliers 0,0,3.36581
+
+ Updated multipliers 0,0,2.20346
+
+ Updated multipliers 0,0,4.14362
+
+ Updated multipliers 0,0.0379747,3.06484
+
+ Updated multipliers 0,0.0782214,13.3187
+
+ Updated multipliers 0,0,9.30266
+
+ Updated step 0.0126582 
+
+Iteration 80 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0.3375,3.17276
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,2.20346
+
+ Updated multipliers 0,0,4.14362
+
+ Updated multipliers 0,0.0379747,3.06484
+
+ Updated multipliers 0,0.0782214,13.3187
+
+ Updated multipliers 0,0,9.30266
+
+ Updated step 0.0125 
+
+Iteration 81 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,2.20346
+
+ Updated multipliers 0,0,4.10658
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0.251061,13.3063
+
+ Updated multipliers 0,0.0493827,9.30266
+
+ Updated step 0.0123457 
+
+Iteration 82 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,2.15468
+
+ Updated multipliers 0,0,4.08219
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.0859681,9.29046
+
+ Updated step 0.0121951 
+
+Iteration 83 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,2.10649
+
+ Updated multipliers 0,0,4.0581
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.122113,9.27842
+
+ Updated step 0.0120482 
+
+Iteration 84 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,2.05887
+
+ Updated multipliers 0,0,4.03429
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.157827,9.26651
+
+ Updated step 0.0119048 
+
+Iteration 85 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,2.01181
+
+ Updated multipliers 0,0,4.01076
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.193121,9.25475
+
+ Updated step 0.0117647 
+
+Iteration 86 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.9653
+
+ Updated multipliers 0,0,3.9875
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.228005,9.24312
+
+ Updated step 0.0116279 
+
+Iteration 87 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.91932
+
+ Updated multipliers 0,0,3.96451
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.262488,9.23162
+
+ Updated step 0.0114943 
+
+Iteration 88 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.87387
+
+ Updated multipliers 0,0,3.94179
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.296578,9.22026
+
+ Updated step 0.0113636 
+
+Iteration 89 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.82892
+
+ Updated multipliers 0,0,3.91932
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.330286,9.20902
+
+ Updated step 0.011236 
+
+Iteration 90 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.78448
+
+ Updated multipliers 0,0,3.89709
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.36362,9.19791
+
+ Updated step 0.0111111 
+
+Iteration 91 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.74052
+
+ Updated multipliers 0,0,3.87512
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.396587,9.18692
+
+ Updated step 0.010989 
+
+Iteration 92 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.69705
+
+ Updated multipliers 0,0,3.85338
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.429195,9.17605
+
+ Updated step 0.0108696 
+
+Iteration 93 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.65404
+
+ Updated multipliers 0,0,3.83187
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.461453,9.1653
+
+ Updated step 0.0107527 
+
+Iteration 94 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.61148
+
+ Updated multipliers 0,0,3.81059
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.493368,9.15466
+
+ Updated step 0.0106383 
+
+Iteration 95 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.56938
+
+ Updated multipliers 0,0,3.78954
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.524947,9.14414
+
+ Updated step 0.0105263 
+
+Iteration 96 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.52771
+
+ Updated multipliers 0,0,3.76871
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.556197,9.13372
+
+ Updated step 0.0104167 
+
+Iteration 97 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.48647
+
+ Updated multipliers 0,0,3.74809
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.587125,9.12341
+
+ Updated step 0.0103093 
+
+Iteration 98 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.44566
+
+ Updated multipliers 0,0,3.72768
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.617737,9.11321
+
+ Updated step 0.0102041 
+
+Iteration 99 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.40525
+
+ Updated multipliers 0,0,3.70748
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.64804,9.10311
+
+ Updated step 0.010101 
+
+Iteration 100 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.36525
+
+ Updated multipliers 0,0,3.68748
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.67804,9.09311
+
+ Updated step 0.01 
+
+Iteration 101 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.32565
+
+ Updated multipliers 0,0,3.66768
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.707743,9.08321
+
+ Updated step 0.00990099 
+
+Iteration 102 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.28643
+
+ Updated multipliers 0,0,3.64807
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.737155,9.0734
+
+ Updated step 0.00980392 
+
+Iteration 103 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.2476
+
+ Updated multipliers 0,0,3.62865
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.766281,9.06369
+
+ Updated step 0.00970874 
+
+Iteration 104 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.20914
+
+ Updated multipliers 0,0,3.60942
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.795127,9.05408
+
+ Updated step 0.00961538 
+
+Iteration 105 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.17104
+
+ Updated multipliers 0,0,3.59037
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.823699,9.04455
+
+ Updated step 0.00952381 
+
+Iteration 106 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.13331
+
+ Updated multipliers 0,0,3.57151
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.852001,9.03512
+
+ Updated step 0.00943396 
+
+Iteration 107 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.09592
+
+ Updated multipliers 0,0,3.55281
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.880038,9.02577
+
+ Updated step 0.00934579 
+
+Iteration 108 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.05889
+
+ Updated multipliers 0,0,3.5343
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.907816,9.01651
+
+ Updated step 0.00925926 
+
+Iteration 109 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,1.02219
+
+ Updated multipliers 0,0,3.51595
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.935339,9.00734
+
+ Updated step 0.00917431 
+
+Iteration 110 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,0.985825
+
+ Updated multipliers 0,0,3.49777
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.962612,8.99825
+
+ Updated step 0.00909091 
+
+Iteration 111 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,0.949788
+
+ Updated multipliers 0,0,3.47975
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,0.989639,8.98924
+
+ Updated step 0.00900901 
+
+Iteration 112 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,0.914074
+
+ Updated multipliers 0,0,3.46189
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,1.01642,8.98031
+
+ Updated step 0.00892857 
+
+Iteration 113 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,0.878676
+
+ Updated multipliers 0,0,3.44419
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,1.04297,8.97146
+
+ Updated step 0.00884956 
+
+Iteration 114 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,0.843588
+
+ Updated multipliers 0,0,3.42665
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,1.06929,8.96269
+
+ Updated step 0.00877193 
+
+Iteration 115 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,0.808806
+
+ Updated multipliers 0,0,3.40926
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,1.09538,8.95399
+
+ Updated step 0.00869565 
+
+Iteration 116 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,0.774323
+
+ Updated multipliers 0,0,3.39201
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,1.12124,8.94537
+
+ Updated step 0.00862069 
+
+Iteration 117 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,0.740135
+
+ Updated multipliers 0,0,3.37492
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,1.14688,8.93683
+
+ Updated step 0.00854701 
+
+Iteration 118 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,0.706237
+
+ Updated multipliers 0,0,3.35797
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,1.1723,8.92835
+
+ Updated step 0.00847458 
+
+Iteration 119 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,0.672623
+
+ Updated multipliers 0,0,3.34116
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,1.19751,8.91995
+
+ Updated step 0.00840336 
+
+Iteration 120 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,0.63929
+
+ Updated multipliers 0,0,3.3245
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,1.22251,8.91162
+
+ Updated step 0.00833333 
+
+Iteration 121 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,0.606232
+
+ Updated multipliers 0,0,3.30797
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,1.24731,8.90335
+
+ Updated step 0.00826446 
+
+Iteration 122 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,0.573445
+
+ Updated multipliers 0,0,3.29158
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,1.2719,8.89515
+
+ Updated step 0.00819672 
+
+Iteration 123 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,0.540925
+
+ Updated multipliers 0,0,3.27532
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,1.29629,8.88702
+
+ Updated step 0.00813008 
+
+Iteration 124 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,0.508667
+
+ Updated multipliers 0,0,3.25919
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,1.32048,8.87896
+
+ Updated step 0.00806452 
+
+Iteration 125 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,0.476667
+
+ Updated multipliers 0,0,3.24319
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,1.34448,8.87096
+
+ Updated step 0.008 
+
+Iteration 126 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,0.444921
+
+ Updated multipliers 0,0,3.22731
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,1.36829,8.86302
+
+ Updated step 0.00793651 
+
+Iteration 127 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,0.413425
+
+ Updated multipliers 0,0,3.21157
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,1.39191,8.85515
+
+ Updated step 0.00787402 
+
+Iteration 128 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0,3.31581
+
+ Updated multipliers 0,0,0.382175
+
+ Updated multipliers 0,0,3.19594
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,1.41535,8.84734
+
+ Updated step 0.0078125 
+
+Iteration 129 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.025,3.54411
+
+ Updated multipliers 0,0,3.18511
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0.0155039,3.31581
+
+ Updated multipliers 0,0,0.382175
+
+ Updated multipliers 0,0.0387597,3.19594
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0,13.3063
+
+ Updated multipliers 0,1.26806,8.87059
+
+ Updated step 0.00775194 
+
+Iteration 130 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0,3.54411
+
+ Updated multipliers 0,0,3.16973
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0.0155039,3.31581
+
+ Updated multipliers 0,0,0.382175
+
+ Updated multipliers 0,0,3.16517
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0.192308,13.2909
+
+ Updated multipliers 0,1.04499,8.87828
+
+ Updated step 0.00769231 
+
+Iteration 131 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0,3.54411
+
+ Updated multipliers 0,0,3.15446
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0.0155039,3.31581
+
+ Updated multipliers 0,0,0.382175
+
+ Updated multipliers 0,0,3.13464
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0.383147,13.2757
+
+ Updated multipliers 0,0.823611,8.88592
+
+ Updated step 0.00763359 
+
+Iteration 132 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0,3.54411
+
+ Updated multipliers 0,0,3.13931
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0.0155039,3.31581
+
+ Updated multipliers 0,0,0.382175
+
+ Updated multipliers 0,0,3.10433
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0.572541,13.2605
+
+ Updated multipliers 0,0.603914,8.89349
+
+ Updated step 0.00757576 
+
+Iteration 133 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0,3.54411
+
+ Updated multipliers 0,0,3.12427
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0.0155039,3.31581
+
+ Updated multipliers 0,0,0.382175
+
+ Updated multipliers 0,0,3.07426
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0.760511,13.2455
+
+ Updated multipliers 0,0.385869,8.90101
+
+ Updated step 0.0075188 
+
+Iteration 134 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0,3.54411
+
+ Updated multipliers 0,0,3.10934
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02847
+
+ Updated multipliers 0,0.0155039,3.31581
+
+ Updated multipliers 0,0,0.382175
+
+ Updated multipliers 0,0,3.04441
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0.947078,13.2306
+
+ Updated multipliers 0,0.169451,8.90848
+
+ Updated step 0.00746269 
+
+Iteration 135 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0148148,3.54411
+
+ Updated multipliers 0,0.2,3.10934
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.00624
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0,0,0.382175
+
+ Updated multipliers 0,0,3.04441
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0.947078,13.2306
+
+ Updated multipliers 0,0.169451,8.90848
+
+ Updated step 0.00740741 
+
+Iteration 136 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0148148,3.54411
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0.198529,2.00624
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0,0,0.382175
+
+ Updated multipliers 0,0,3.04441
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0.741196,13.2453
+
+ Updated multipliers 0,0.169451,8.90848
+
+ Updated step 0.00735294 
+
+Iteration 137 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0148148,3.54411
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,2.02084
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0,0,0.382175
+
+ Updated multipliers 0,0.19708,3.04441
+
+ Updated multipliers 0,0,3.01546
+
+ Updated multipliers 0,0.551415,13.2526
+
+ Updated multipliers 0,0.169451,8.90848
+
+ Updated step 0.00729927 
+
+Iteration 138 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0148148,3.54411
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,1.99186
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0,0,0.382175
+
+ Updated multipliers 0,0.00867449,3.05165
+
+ Updated multipliers 0,0.0217391,2.99372
+
+ Updated multipliers 0,0.399241,13.2526
+
+ Updated multipliers 0,0.19119,8.90123
+
+ Updated step 0.00724638 
+
+Iteration 139 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0148148,3.54411
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,1.99186
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0,0,0.353398
+
+ Updated multipliers 0,0,3.03727
+
+ Updated multipliers 0,0,2.99372
+
+ Updated multipliers 0,0.248162,13.2526
+
+ Updated multipliers 0,0.212773,8.89404
+
+ Updated step 0.00719424 
+
+Iteration 140 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0148148,3.54411
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,1.99186
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0,0,0.324826
+
+ Updated multipliers 0,0,3.02298
+
+ Updated multipliers 0,0,2.99372
+
+ Updated multipliers 0,0.098162,13.2526
+
+ Updated multipliers 0,0.234202,8.88689
+
+ Updated step 0.00714286 
+
+Iteration 141 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0148148,3.54411
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,1.99186
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0,0,0.296457
+
+ Updated multipliers 0,0,3.0088
+
+ Updated multipliers 0,0,2.99372
+
+ Updated multipliers 0,0,13.2526
+
+ Updated multipliers 0,0.255478,8.8798
+
+ Updated step 0.0070922 
+
+Iteration 142 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0148148,3.54411
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,1.99186
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0,0,0.268288
+
+ Updated multipliers 0,0,2.99471
+
+ Updated multipliers 0,0,2.99372
+
+ Updated multipliers 0,0,13.2526
+
+ Updated multipliers 0,0.276605,8.87276
+
+ Updated step 0.00704225 
+
+Iteration 143 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0148148,3.54411
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,1.99186
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0,0,0.240316
+
+ Updated multipliers 0,0,2.98073
+
+ Updated multipliers 0,0,2.99372
+
+ Updated multipliers 0,0,13.2526
+
+ Updated multipliers 0,0.297584,8.86576
+
+ Updated step 0.00699301 
+
+Iteration 144 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0148148,3.54411
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,1.99186
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0,0,0.212539
+
+ Updated multipliers 0,0,2.96684
+
+ Updated multipliers 0,0,2.99372
+
+ Updated multipliers 0,0,13.2526
+
+ Updated multipliers 0,0.318417,8.85882
+
+ Updated step 0.00694444 
+
+Iteration 145 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0148148,3.54411
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,1.99186
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0,0,0.184952
+
+ Updated multipliers 0,0,2.95304
+
+ Updated multipliers 0,0,2.99372
+
+ Updated multipliers 0,0,13.2526
+
+ Updated multipliers 0,0.339107,8.85192
+
+ Updated step 0.00689655 
+
+Iteration 146 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0148148,3.54411
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,1.99186
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0,0,0.157555
+
+ Updated multipliers 0,0,2.93934
+
+ Updated multipliers 0,0,2.99372
+
+ Updated multipliers 0,0,13.2526
+
+ Updated multipliers 0,0.359655,8.84507
+
+ Updated step 0.00684932 
+
+Iteration 147 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0148148,3.54411
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,1.99186
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0,0,0.130344
+
+ Updated multipliers 0,0,2.92574
+
+ Updated multipliers 0,0,2.99372
+
+ Updated multipliers 0,0,13.2526
+
+ Updated multipliers 0,0.380063,8.83827
+
+ Updated step 0.00680272 
+
+Iteration 148 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0148148,3.54411
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,1.99186
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0,0,0.103317
+
+ Updated multipliers 0,0,2.91223
+
+ Updated multipliers 0,0,2.99372
+
+ Updated multipliers 0,0,13.2526
+
+ Updated multipliers 0,0.400334,8.83151
+
+ Updated step 0.00675676 
+
+Iteration 149 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0148148,3.54411
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,1.99186
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0,0,0.0764715
+
+ Updated multipliers 0,0,2.8988
+
+ Updated multipliers 0,0,2.99372
+
+ Updated multipliers 0,0,13.2526
+
+ Updated multipliers 0,0.420468,8.8248
+
+ Updated step 0.00671141 
+
+Iteration 150 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0148148,3.54411
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,1.99186
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0,0,0.0498048
+
+ Updated multipliers 0,0,2.88547
+
+ Updated multipliers 0,0,2.99372
+
+ Updated multipliers 0,0,13.2526
+
+ Updated multipliers 0,0.440468,8.81814
+
+ Updated step 0.00666667 
+
+Iteration 151 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0148148,3.54411
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,1.99186
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0,0,0.0233148
+
+ Updated multipliers 0,0,2.87222
+
+ Updated multipliers 0,0,2.99372
+
+ Updated multipliers 0,0,13.2526
+
+ Updated multipliers 0,0.460335,8.81151
+
+ Updated step 0.00662252 
+
+Iteration 152 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0148148,3.54411
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,1.99186
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0,0,0
+
+ Updated multipliers 0,0,2.85907
+
+ Updated multipliers 0,0,2.99372
+
+ Updated multipliers 0,0,13.2526
+
+ Updated multipliers 0,0.480072,8.80494
+
+ Updated step 0.00657895 
+
+Iteration 153 ... 
+
+ Found SR solution - value: 0
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0148148,3.54411
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,1.99186
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0.51634,1.07843,0.281046
+
+ Updated multipliers 0,0,2.85907
+
+ Updated multipliers 0,0,2.99372
+
+ Updated multipliers 0,0,13.2526
+
+ Updated multipliers 0,0.480072,8.80494
+
+ Updated step 0.00653595 
+
+Iteration 154 ... 
+
+ Found SR solution - value: 3
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.229101,3.53762
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,1.99186
+
+ Updated multipliers 0,0,3.28618
+
+ Updated multipliers 0.40595,1.09142,0.371955
+
+ Updated multipliers 0,0,2.85907
+
+ Updated multipliers 0,0,2.99372
+
+ Updated multipliers 0,0,13.2526
+
+ Updated multipliers 0,0.389163,8.80494
+
+ Updated step 0.00649351 
+
+Iteration 155 ... 
+
+ Found SR solution - value: 3
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.229101,3.53762
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,1.99186
+
+ Updated multipliers 0,0.174194,3.28618
+
+ Updated multipliers 0.399499,1.05271,0.455826
+
+ Updated multipliers 0,0,2.85907
+
+ Updated multipliers 0,0,2.99372
+
+ Updated multipliers 0,0,13.2526
+
+ Updated multipliers 0,0.389163,8.80494
+
+ Updated step 0.00645161 
+
+Iteration 156 ... 
+
+ Found SR solution - value: 3
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.229101,3.53762
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0,3.62762
+
+ Updated multipliers 0,0,1.99186
+
+ Updated multipliers 0,0.174194,3.28618
+
+ Updated multipliers 0.380268,1.00143,0.539159
+
+ Updated multipliers 0,0.173077,2.85907
+
+ Updated multipliers 0,0,2.99372
+
+ Updated multipliers 0,0.0128205,13.2526
+
+ Updated multipliers 0,0.389163,8.80494
+
+ Updated step 0.00641026 
+
+Iteration 157 ... 
+
+ Found SR solution - value: 3
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.229101,3.53762
+
+ Updated multipliers 0,0.00882353,3.1167
+
+ Updated multipliers 0,0.089172,3.62762
+
+ Updated multipliers 0,0.0955414,1.99186
+
+ Updated multipliers 0,0.174194,3.28618
+
+ Updated multipliers 0.36116,0.950471,0.621962
+
+ Updated multipliers 0,0.173077,2.85907
+
+ Updated multipliers 0,0,2.99372
+
+ Updated multipliers 0,0.0128205,13.2526
+
+ Updated multipliers 0,0.389163,8.80494
+
+ Updated step 0.00636943 
+
+Iteration 158 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.102518,3.53129
+
+ Updated multipliers 0,0,3.07239
+
+ Updated multipliers 0,0.089172,3.62762
+
+ Updated multipliers 0,0.0955414,1.99186
+
+ Updated multipliers 0,0.174194,3.28618
+
+ Updated multipliers 0.342172,0.899838,0.70424
+
+ Updated multipliers 0,0.173077,2.85907
+
+ Updated multipliers 0,0.158228,2.98106
+
+ Updated multipliers 0,0.0128205,13.2526
+
+ Updated multipliers 0,0.389163,8.80494
+
+ Updated step 0.00632911 
+
+Iteration 159 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.102518,3.53129
+
+ Updated multipliers 0,0,3.02837
+
+ Updated multipliers 0,0.114329,3.61504
+
+ Updated multipliers 0,0.0955414,1.99186
+
+ Updated multipliers 0,0.174194,3.28618
+
+ Updated multipliers 0.260411,0.855813,0.779712
+
+ Updated multipliers 0,0.173077,2.85907
+
+ Updated multipliers 0,0.0261524,2.98106
+
+ Updated multipliers 0,0.0128205,13.2526
+
+ Updated multipliers 0,0.389163,8.80494
+
+ Updated step 0.00628931 
+
+Iteration 160 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.102518,3.53129
+
+ Updated multipliers 0,0,2.98462
+
+ Updated multipliers 0,0.139329,3.60254
+
+ Updated multipliers 0,0.0955414,1.99186
+
+ Updated multipliers 0,0.174194,3.28618
+
+ Updated multipliers 0.179161,0.812063,0.854712
+
+ Updated multipliers 0,0.173077,2.85907
+
+ Updated multipliers 0,0,2.98106
+
+ Updated multipliers 0,0.0128205,13.2526
+
+ Updated multipliers 0,0.389163,8.80494
+
+ Updated step 0.00625 
+
+Iteration 161 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.102518,3.53129
+
+ Updated multipliers 0,0,2.9722
+
+ Updated multipliers 0,0.139329,3.60254
+
+ Updated multipliers 0,0.0955414,1.99186
+
+ Updated multipliers 0,0.174194,3.28618
+
+ Updated multipliers 0.117049,0.74374,0.910612
+
+ Updated multipliers 0,0.117176,2.84664
+
+ Updated multipliers 0,0,2.98106
+
+ Updated multipliers 0,0.0128205,13.2526
+
+ Updated multipliers 0,0.414008,8.79251
+
+ Updated step 0.00621118 
+
+Iteration 162 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.102518,3.53129
+
+ Updated multipliers 0,0,2.95985
+
+ Updated multipliers 0,0.139329,3.60254
+
+ Updated multipliers 0,0.0955414,1.99186
+
+ Updated multipliers 0,0.174194,3.28618
+
+ Updated multipliers 0.0553211,0.675839,0.966168
+
+ Updated multipliers 0,0.0616207,2.8343
+
+ Updated multipliers 0,0,2.98106
+
+ Updated multipliers 0,0.0128205,13.2526
+
+ Updated multipliers 0,0.438699,8.78017
+
+ Updated step 0.00617284 
+
+Iteration 163 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.102518,3.53129
+
+ Updated multipliers 0,0,2.95985
+
+ Updated multipliers 0,0.139329,3.60254
+
+ Updated multipliers 0,0.0955414,1.99186
+
+ Updated multipliers 0,0.00241441,3.29232
+
+ Updated multipliers 0,0.602219,1.01525
+
+ Updated multipliers 0,0,2.80362
+
+ Updated multipliers 0,0.159509,2.97493
+
+ Updated multipliers 0,0.0128205,13.2526
+
+ Updated multipliers 0,0.438699,8.78017
+
+ Updated step 0.00613497 
+
+Iteration 164 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.102518,3.53129
+
+ Updated multipliers 0,0.152439,2.94765
+
+ Updated multipliers 0,0.139329,3.60254
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.00241441,3.29232
+
+ Updated multipliers 0,0.516853,1.06403
+
+ Updated multipliers 0,0,2.80362
+
+ Updated multipliers 0,0.000972617,2.98103
+
+ Updated multipliers 0,0.0128205,13.2526
+
+ Updated multipliers 0,0.438699,8.78017
+
+ Updated step 0.00609756 
+
+Iteration 165 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.126761,3.51917
+
+ Updated multipliers 0,0.152439,2.94765
+
+ Updated multipliers 0,0.139329,3.60254
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.00241441,3.29232
+
+ Updated multipliers 0,0.425944,1.09433
+
+ Updated multipliers 0,0.0666667,2.79756
+
+ Updated multipliers 0,0.000972617,2.98103
+
+ Updated multipliers 0,0.0128205,13.2526
+
+ Updated multipliers 0,0.275063,8.78623
+
+ Updated step 0.00606061 
+
+Iteration 166 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.126761,3.51917
+
+ Updated multipliers 0,0.152439,2.94765
+
+ Updated multipliers 0,0.00679909,3.59652
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.00241441,3.29232
+
+ Updated multipliers 0,0.293414,1.1365
+
+ Updated multipliers 0,0.0666667,2.79756
+
+ Updated multipliers 0,0,2.975
+
+ Updated multipliers 0,0.163423,13.2405
+
+ Updated multipliers 0,0.275063,8.78623
+
+ Updated step 0.0060241 
+
+Iteration 167 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.126761,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.00241441,3.29232
+
+ Updated multipliers 0,0.191618,1.16045
+
+ Updated multipliers 0,0.0666667,2.79756
+
+ Updated multipliers 0,0.161677,2.975
+
+ Updated multipliers 0,0.163423,13.2405
+
+ Updated multipliers 0,0.275063,8.78623
+
+ Updated step 0.00598802 
+
+Iteration 168 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0.0785226,1.17831
+
+ Updated multipliers 0,0.0666667,2.79756
+
+ Updated multipliers 0,0.000962361,2.98096
+
+ Updated multipliers 0,0.163423,13.2405
+
+ Updated multipliers 0,0.275063,8.78623
+
+ Updated step 0.00595238 
+
+Iteration 169 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,1.15464
+
+ Updated multipliers 0,0.0134122,2.78573
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0.0391626,13.2405
+
+ Updated multipliers 0,0.292814,8.78031
+
+ Updated step 0.00591716 
+
+Iteration 170 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,1.13111
+
+ Updated multipliers 0,0,2.77396
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.310461,8.77443
+
+ Updated step 0.00588235 
+
+Iteration 171 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,1.10772
+
+ Updated multipliers 0,0,2.76227
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.328005,8.76858
+
+ Updated step 0.00584795 
+
+Iteration 172 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,1.08446
+
+ Updated multipliers 0,0,2.75064
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.345447,8.76277
+
+ Updated step 0.00581395 
+
+Iteration 173 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,1.06134
+
+ Updated multipliers 0,0,2.73908
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.362788,8.75699
+
+ Updated step 0.00578035 
+
+Iteration 174 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,1.03835
+
+ Updated multipliers 0,0,2.72759
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.380029,8.75124
+
+ Updated step 0.00574713 
+
+Iteration 175 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,1.0155
+
+ Updated multipliers 0,0,2.71616
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.397172,8.74552
+
+ Updated step 0.00571429 
+
+Iteration 176 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,0.992769
+
+ Updated multipliers 0,0,2.70479
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.414218,8.73984
+
+ Updated step 0.00568182 
+
+Iteration 177 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,0.97017
+
+ Updated multipliers 0,0,2.69349
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.431167,8.73419
+
+ Updated step 0.00564972 
+
+Iteration 178 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,0.947698
+
+ Updated multipliers 0,0,2.68226
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.448021,8.72858
+
+ Updated step 0.00561798 
+
+Iteration 179 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,0.925352
+
+ Updated multipliers 0,0,2.67108
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.464781,8.72299
+
+ Updated step 0.00558659 
+
+Iteration 180 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,0.90313
+
+ Updated multipliers 0,0,2.65997
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.481447,8.71743
+
+ Updated step 0.00555556 
+
+Iteration 181 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,0.88103
+
+ Updated multipliers 0,0,2.64892
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.498022,8.71191
+
+ Updated step 0.00552486 
+
+Iteration 182 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,0.859052
+
+ Updated multipliers 0,0,2.63793
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.514505,8.70641
+
+ Updated step 0.00549451 
+
+Iteration 183 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,0.837194
+
+ Updated multipliers 0,0,2.62701
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.530899,8.70095
+
+ Updated step 0.00546448 
+
+Iteration 184 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,0.815455
+
+ Updated multipliers 0,0,2.61614
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.547203,8.69551
+
+ Updated step 0.00543478 
+
+Iteration 185 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,0.793834
+
+ Updated multipliers 0,0,2.60533
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.563419,8.69011
+
+ Updated step 0.00540541 
+
+Iteration 186 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,0.772328
+
+ Updated multipliers 0,0,2.59457
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.579548,8.68473
+
+ Updated step 0.00537634 
+
+Iteration 187 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,0.750938
+
+ Updated multipliers 0,0,2.58388
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.595591,8.67939
+
+ Updated step 0.00534759 
+
+Iteration 188 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,0.729661
+
+ Updated multipliers 0,0,2.57324
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.611549,8.67407
+
+ Updated step 0.00531915 
+
+Iteration 189 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.198843,3.28637
+
+ Updated multipliers 0,0,0.708497
+
+ Updated multipliers 0,0,2.56266
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.627422,8.66878
+
+ Updated step 0.00529101 
+
+Iteration 190 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.708497
+
+ Updated multipliers 0,0,2.56266
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0.142105,13.2405
+
+ Updated multipliers 0,0.480053,8.6793
+
+ Updated step 0.00526316 
+
+Iteration 191 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.687555
+
+ Updated multipliers 0,0,2.55219
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0.0321576,13.2405
+
+ Updated multipliers 0,0.49576,8.67407
+
+ Updated step 0.0052356 
+
+Iteration 192 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.666722
+
+ Updated multipliers 0,0,2.54177
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.511385,8.66886
+
+ Updated step 0.00520833 
+
+Iteration 193 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.645996
+
+ Updated multipliers 0,0,2.53141
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.526929,8.66368
+
+ Updated step 0.00518135 
+
+Iteration 194 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.625378
+
+ Updated multipliers 0,0,2.5211
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.542393,8.65852
+
+ Updated step 0.00515464 
+
+Iteration 195 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.604865
+
+ Updated multipliers 0,0,2.51084
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.557778,8.65339
+
+ Updated step 0.00512821 
+
+Iteration 196 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.584457
+
+ Updated multipliers 0,0,2.50064
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.573084,8.64829
+
+ Updated step 0.00510204 
+
+Iteration 197 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.564152
+
+ Updated multipliers 0,0,2.49048
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.588312,8.64322
+
+ Updated step 0.00507614 
+
+Iteration 198 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.54395
+
+ Updated multipliers 0,0,2.48038
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.603464,8.63816
+
+ Updated step 0.00505051 
+
+Iteration 199 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.52385
+
+ Updated multipliers 0,0,2.47033
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.618539,8.63314
+
+ Updated step 0.00502513 
+
+Iteration 200 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.50385
+
+ Updated multipliers 0,0,2.46033
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.633539,8.62814
+
+ Updated step 0.005 
+
+Iteration 201 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.483949
+
+ Updated multipliers 0,0,2.45038
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.648464,8.62316
+
+ Updated step 0.00497512 
+
+Iteration 202 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.464147
+
+ Updated multipliers 0,0,2.44048
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.663316,8.61821
+
+ Updated step 0.0049505 
+
+Iteration 203 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.444443
+
+ Updated multipliers 0,0,2.43063
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.678094,8.61329
+
+ Updated step 0.00492611 
+
+Iteration 204 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.424835
+
+ Updated multipliers 0,0,2.42083
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.6928,8.60839
+
+ Updated step 0.00490196 
+
+Iteration 205 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.405323
+
+ Updated multipliers 0,0,2.41107
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.707434,8.60351
+
+ Updated step 0.00487805 
+
+Iteration 206 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.385905
+
+ Updated multipliers 0,0,2.40136
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.721997,8.59865
+
+ Updated step 0.00485437 
+
+Iteration 207 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.366582
+
+ Updated multipliers 0,0,2.3917
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.73649,8.59382
+
+ Updated step 0.00483092 
+
+Iteration 208 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.347351
+
+ Updated multipliers 0,0,2.38208
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.750913,8.58901
+
+ Updated step 0.00480769 
+
+Iteration 209 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.328212
+
+ Updated multipliers 0,0,2.37251
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.765267,8.58423
+
+ Updated step 0.00478469 
+
+Iteration 210 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.309164
+
+ Updated multipliers 0,0,2.36299
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.779553,8.57947
+
+ Updated step 0.0047619 
+
+Iteration 211 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.290207
+
+ Updated multipliers 0,0,2.35351
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.793771,8.57473
+
+ Updated step 0.00473934 
+
+Iteration 212 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.271339
+
+ Updated multipliers 0,0,2.34408
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.807922,8.57001
+
+ Updated step 0.00471698 
+
+Iteration 213 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.25256
+
+ Updated multipliers 0,0,2.33469
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.822006,8.56532
+
+ Updated step 0.00469484 
+
+Iteration 214 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.233868
+
+ Updated multipliers 0,0,2.32534
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.836025,8.56064
+
+ Updated step 0.0046729 
+
+Iteration 215 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.215264
+
+ Updated multipliers 0,0,2.31604
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.849979,8.55599
+
+ Updated step 0.00465116 
+
+Iteration 216 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.196745
+
+ Updated multipliers 0,0,2.30678
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.863868,8.55136
+
+ Updated step 0.00462963 
+
+Iteration 217 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.178312
+
+ Updated multipliers 0,0,2.29756
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.877692,8.54675
+
+ Updated step 0.00460829 
+
+Iteration 218 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.159963
+
+ Updated multipliers 0,0,2.28839
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.891454,8.54217
+
+ Updated step 0.00458716 
+
+Iteration 219 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.141698
+
+ Updated multipliers 0,0,2.27926
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.905153,8.5376
+
+ Updated step 0.00456621 
+
+Iteration 220 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.123517
+
+ Updated multipliers 0,0,2.27017
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.918789,8.53306
+
+ Updated step 0.00454545 
+
+Iteration 221 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.105417
+
+ Updated multipliers 0,0,2.26112
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.932364,8.52853
+
+ Updated step 0.00452489 
+
+Iteration 222 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.087399
+
+ Updated multipliers 0,0,2.25211
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.945877,8.52403
+
+ Updated step 0.0045045 
+
+Iteration 223 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.0694617
+
+ Updated multipliers 0,0,2.24314
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.95933,8.51954
+
+ Updated step 0.0044843 
+
+Iteration 224 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.0516046
+
+ Updated multipliers 0,0,2.23421
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.972723,8.51508
+
+ Updated step 0.00446429 
+
+Iteration 225 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.0338268
+
+ Updated multipliers 0,0,2.22532
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.986056,8.51063
+
+ Updated step 0.00444444 
+
+Iteration 226 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0.0161277
+
+ Updated multipliers 0,0,2.21647
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.99933,8.50621
+
+ Updated step 0.00442478 
+
+Iteration 227 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0,0,0
+
+ Updated multipliers 0,0,2.20766
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,1.01255,8.5018
+
+ Updated step 0.00440529 
+
+Iteration 228 ... 
+
+ Found SR solution - value: 0
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.0620009,3.29163
+
+ Updated multipliers 0.346491,0.723684,0.188596
+
+ Updated multipliers 0,0,2.20766
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,1.01255,8.5018
+
+ Updated step 0.00438596 
+
+Iteration 229 ... 
+
+ Found SR solution - value: 3
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.206106,3.28726
+
+ Updated multipliers 0.272255,0.732418,0.249732
+
+ Updated multipliers 0,0,2.20766
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.951411,8.5018
+
+ Updated step 0.00436681 
+
+Iteration 230 ... 
+
+ Found SR solution - value: 3
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.206106,3.28726
+
+ Updated multipliers 0.267908,0.706331,0.306254
+
+ Updated multipliers 0,0,2.20766
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.951411,8.5018
+
+ Updated step 0.00434783 
+
+Iteration 231 ... 
+
+ Found SR solution - value: 3
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.206106,3.28726
+
+ Updated multipliers 0.263579,0.680357,0.362531
+
+ Updated multipliers 0,0.116883,2.20766
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0,13.2405
+
+ Updated multipliers 0,0.951411,8.5018
+
+ Updated step 0.004329 
+
+Iteration 232 ... 
+
+ Found SR solution - value: 3
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0434273,3.51917
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.206106,3.28726
+
+ Updated multipliers 0.250648,0.645874,0.418565
+
+ Updated multipliers 0,0.116883,2.20766
+
+ Updated multipliers 0,0,2.98096
+
+ Updated multipliers 0,0.116379,13.2405
+
+ Updated multipliers 0,0.951411,8.5018
+
+ Updated step 0.00431034 
+
+Iteration 233 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0,3.51917
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.206106,3.28726
+
+ Updated multipliers 0.151935,0.632999,0.457192
+
+ Updated multipliers 0,0.116883,2.20766
+
+ Updated multipliers 0,0.0901288,2.96379
+
+ Updated multipliers 0,0.116379,13.2405
+
+ Updated multipliers 0,0.822656,8.49322
+
+ Updated step 0.00429185 
+
+Iteration 234 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0,3.51917
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0.0223707,1.96747
+
+ Updated multipliers 0,0.206106,3.28726
+
+ Updated multipliers 0.0536445,0.620178,0.495653
+
+ Updated multipliers 0,0.116883,2.20766
+
+ Updated multipliers 0,0.179872,2.94669
+
+ Updated multipliers 0,0.116379,13.2405
+
+ Updated multipliers 0,0.69445,8.48467
+
+ Updated step 0.0042735 
+
+Iteration 235 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.0468085,3.51066
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0.0308813,1.95044
+
+ Updated multipliers 0,0.206106,3.28726
+
+ Updated multipliers 0,0.569114,0.529696
+
+ Updated multipliers 0,0,2.21192
+
+ Updated multipliers 0,0.179872,2.94669
+
+ Updated multipliers 0,0.116379,13.2405
+
+ Updated multipliers 0,0.69445,8.48467
+
+ Updated step 0.00425532 
+
+Iteration 236 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0,3.49371
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0.0308813,1.95044
+
+ Updated multipliers 0,0.163733,3.28302
+
+ Updated multipliers 0.00847458,0.526741,0.572069
+
+ Updated multipliers 0,0.105932,2.20344
+
+ Updated multipliers 0,0.179872,2.94669
+
+ Updated multipliers 0,0.116379,13.2405
+
+ Updated multipliers 0,0.69445,8.48467
+
+ Updated step 0.00423729 
+
+Iteration 237 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0,3.49371
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0.0308813,1.95044
+
+ Updated multipliers 0,0.163733,3.28302
+
+ Updated multipliers 0,0.46345,0.588946
+
+ Updated multipliers 0,0.105932,2.20344
+
+ Updated multipliers 0,0.179872,2.94669
+
+ Updated multipliers 0,0.221865,13.2321
+
+ Updated multipliers 0,0.576307,8.48889
+
+ Updated step 0.00421941 
+
+Iteration 238 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0,3.49371
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0.0308813,1.95044
+
+ Updated multipliers 0,0.163733,3.28302
+
+ Updated multipliers 0,0.400425,0.605753
+
+ Updated multipliers 0,0.105932,2.20344
+
+ Updated multipliers 0,0.179872,2.94669
+
+ Updated multipliers 0,0.326907,13.2237
+
+ Updated multipliers 0,0.45866,8.49309
+
+ Updated step 0.00420168 
+
+Iteration 239 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0,3.49371
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0.0308813,1.95044
+
+ Updated multipliers 0,0.163733,3.28302
+
+ Updated multipliers 0,0.337663,0.622489
+
+ Updated multipliers 0,0.105932,2.20344
+
+ Updated multipliers 0,0.179872,2.94669
+
+ Updated multipliers 0,0.431509,13.2153
+
+ Updated multipliers 0,0.341505,8.49728
+
+ Updated step 0.0041841 
+
+Iteration 240 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0,3.49371
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0.0308813,1.95044
+
+ Updated multipliers 0,0.163733,3.28302
+
+ Updated multipliers 0,0.275163,0.639156
+
+ Updated multipliers 0,0.105932,2.20344
+
+ Updated multipliers 0,0.179872,2.94669
+
+ Updated multipliers 0,0.535676,13.207
+
+ Updated multipliers 0,0.224838,8.50144
+
+ Updated step 0.00416667 
+
+Iteration 241 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0.0308813,1.95044
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0.183877,0.668202
+
+ Updated multipliers 0,0.105932,2.20344
+
+ Updated multipliers 0,0.146677,2.94254
+
+ Updated multipliers 0,0.535676,13.207
+
+ Updated multipliers 0,0.224838,8.50144
+
+ Updated step 0.00414938 
+
+Iteration 242 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0.138319,1.94631
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0.105365,0.680598
+
+ Updated multipliers 0,0,2.20757
+
+ Updated multipliers 0,0.113619,2.94254
+
+ Updated multipliers 0,0.535676,13.207
+
+ Updated multipliers 0,0.224838,8.50144
+
+ Updated step 0.00413223 
+
+Iteration 243 ... 
+
+ Found SR solution - value: 4
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0.138319,1.94631
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0.111111,2.20757
+
+ Updated multipliers 0,0.113619,2.94254
+
+ Updated multipliers 0,0.42868,13.2111
+
+ Updated multipliers 0,0.224838,8.50144
+
+ Updated step 0.00411523 
+
+Iteration 244 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0.0194669,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0.107013,2.18708
+
+ Updated multipliers 0,0.0562424,2.94254
+
+ Updated multipliers 0,0.342614,13.2111
+
+ Updated multipliers 0,0.183855,8.48915
+
+ Updated step 0.00409836 
+
+Iteration 245 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,2.17076
+
+ Updated multipliers 0,0.0684873,2.93438
+
+ Updated multipliers 0,0.2569,13.2111
+
+ Updated multipliers 0,0.151202,8.48507
+
+ Updated step 0.00408163 
+
+Iteration 246 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,2.1545
+
+ Updated multipliers 0,0.0806824,2.92625
+
+ Updated multipliers 0,0.171534,13.2111
+
+ Updated multipliers 0,0.118681,8.481
+
+ Updated step 0.00406504 
+
+Iteration 247 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,2.1383
+
+ Updated multipliers 0,0.0928282,2.91815
+
+ Updated multipliers 0,0.0865139,13.2111
+
+ Updated multipliers 0,0.0862928,8.47695
+
+ Updated step 0.00404858 
+
+Iteration 248 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,2.12217
+
+ Updated multipliers 0,0.104925,2.91009
+
+ Updated multipliers 0,0.00183648,13.2111
+
+ Updated multipliers 0,0.0540348,8.47292
+
+ Updated step 0.00403226 
+
+Iteration 249 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,2.10611
+
+ Updated multipliers 0,0.116973,2.90206
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0.0219062,8.46891
+
+ Updated step 0.00401606 
+
+Iteration 250 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,2.09011
+
+ Updated multipliers 0,0.128973,2.89406
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.46491
+
+ Updated step 0.004 
+
+Iteration 251 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,2.07417
+
+ Updated multipliers 0,0.140925,2.88609
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.46092
+
+ Updated step 0.00398406 
+
+Iteration 252 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,2.0583
+
+ Updated multipliers 0,0.15283,2.87815
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.45695
+
+ Updated step 0.00396825 
+
+Iteration 253 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,2.04249
+
+ Updated multipliers 0,0.164688,2.87025
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.453
+
+ Updated step 0.00395257 
+
+Iteration 254 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,2.02674
+
+ Updated multipliers 0,0.176499,2.86237
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.44906
+
+ Updated step 0.00393701 
+
+Iteration 255 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,2.01105
+
+ Updated multipliers 0,0.188264,2.85453
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.44514
+
+ Updated step 0.00392157 
+
+Iteration 256 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,1.99543
+
+ Updated multipliers 0,0.199982,2.84672
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.44124
+
+ Updated step 0.00390625 
+
+Iteration 257 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,1.97987
+
+ Updated multipliers 0,0.211655,2.83894
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.43735
+
+ Updated step 0.00389105 
+
+Iteration 258 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,1.96436
+
+ Updated multipliers 0,0.223283,2.83118
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.43347
+
+ Updated step 0.00387597 
+
+Iteration 259 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,1.94892
+
+ Updated multipliers 0,0.234866,2.82346
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.42961
+
+ Updated step 0.003861 
+
+Iteration 260 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,1.93353
+
+ Updated multipliers 0,0.246405,2.81577
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.42576
+
+ Updated step 0.00384615 
+
+Iteration 261 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,1.91821
+
+ Updated multipliers 0,0.257899,2.80811
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.42193
+
+ Updated step 0.00383142 
+
+Iteration 262 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,1.90294
+
+ Updated multipliers 0,0.269349,2.80047
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.41811
+
+ Updated step 0.00381679 
+
+Iteration 263 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,1.88773
+
+ Updated multipliers 0,0.280756,2.79287
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.41431
+
+ Updated step 0.00380228 
+
+Iteration 264 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,1.87258
+
+ Updated multipliers 0,0.29212,2.78529
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.41052
+
+ Updated step 0.00378788 
+
+Iteration 265 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,1.85749
+
+ Updated multipliers 0,0.303441,2.77775
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.40675
+
+ Updated step 0.00377358 
+
+Iteration 266 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,1.84245
+
+ Updated multipliers 0,0.314719,2.77023
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.40299
+
+ Updated step 0.0037594 
+
+Iteration 267 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,1.82747
+
+ Updated multipliers 0,0.325955,2.76274
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.39925
+
+ Updated step 0.00374532 
+
+Iteration 268 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,1.81254
+
+ Updated multipliers 0,0.337149,2.75527
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.39551
+
+ Updated step 0.00373134 
+
+Iteration 269 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,1.79767
+
+ Updated multipliers 0,0.348301,2.74784
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.3918
+
+ Updated step 0.00371747 
+
+Iteration 270 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ Updated multipliers 0,0.103734,3.48541
+
+ Updated multipliers 0,0.00862069,2.95364
+
+ Updated multipliers 0,0.117391,3.58454
+
+ Updated multipliers 0,0,1.95041
+
+ Updated multipliers 0,0.0724465,3.27888
+
+ Updated multipliers 0,0,0.688829
+
+ Updated multipliers 0,0,1.78286
+
+ Updated multipliers 0,0.359412,2.74043
+
+ Updated multipliers 0,0,13.2111
+
+ Updated multipliers 0,0,8.38809
+
+ Updated step 0.0037037 
+
+Iteration 271 ... 
+
+ Found SR solution - value: 5
+ The solution is not feasible.
+ Current best lower bound 5
+ 201 iterations passed without improvements. Quitting. 
+
+ solution 5
+ iterations 272, time 20.8031
 

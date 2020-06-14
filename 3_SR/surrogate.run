@@ -3,9 +3,9 @@ reset options;
 
 model surrogate.mod;
 
-data ../Assignment/instances/i_40_1.dat;
+data ../Assignment/instances/i_10_2.dat;
 
-option solver '/home/davide/ampl_linux-intel64/cplex';
+option solver 'cplex';
 
 problem SurrogateRelaxation: x, y, Installed_VMs, Assignment, SurrogateCapacity;
 

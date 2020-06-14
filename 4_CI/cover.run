@@ -5,7 +5,7 @@ model cover.mod;
 
 data ../Assignment/instances/i_40_1.dat;
 
-option solver '/home/davide/ampl_linux-intel64/cplex';
+option solver 'cplex';
 
 #PROBLEM DEFINITION
 

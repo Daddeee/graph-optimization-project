@@ -5,10 +5,10 @@ data ../Assignment/instances/i_10_1.dat;
 
 
 problem master;
-option solver '/home/davide/ampl_linux-intel64/cplex';
+option solver 'cplex';
 
 problem pricing;
-option solver '/home/davide/ampl_linux-intel64/cplex';
+option solver 'cplex';
 
 #auxiliary parameters
 param flag default 0;
