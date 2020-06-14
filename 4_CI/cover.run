@@ -3,7 +3,7 @@ reset options;
 
 model cover.mod;
 
-data ../Assignment/instances/i_10_1.dat;
+data ../Assignment/instances/i_40_1.dat;
 
 option solver '/home/davide/ampl_linux-intel64/cplex';
 
@@ -16,6 +16,12 @@ problem SeparationMemory: u, Violation, CoverConditionMemory;
 
 param check_violation default 0;
 param iter default 0;
+
+param tic;
+param toc;
+param CI_time;
+
+let tic := _ampl_user_time;
 
 solve Relaxation;
 
@@ -50,10 +56,12 @@ repeat {
                  printf"%d ",l > results.txt;
             }
             printf"\n" > results.txt;
-        }
 
-                for {k in 1..N} {
-            let x_star[k] := x[k,j];
+            solve Relaxation;
+
+            for {k in 1..N} {
+                let x_star[k] := x[k,j];
+            }
         }
 
         solve SeparationCpu;
@@ -72,6 +80,12 @@ repeat {
                  printf"%d ",l > results.txt;
             }
             printf"\n" > results.txt;
+
+            solve Relaxation;
+
+            for {k in 1..N} {
+                let x_star[k] := x[k,j];
+            }
         }
 
         solve SeparationMemory;
@@ -90,6 +104,12 @@ repeat {
                  printf"%d ",l > results.txt;
             }
             printf"\n" > results.txt;
+
+            solve Relaxation;
+
+            for {k in 1..N} {
+                let x_star[k] := x[k,j];
+            }
         }
     }
 
@@ -97,6 +117,16 @@ repeat {
 
 solve Relaxation;
 
+let toc := _ampl_user_time + _total_solve_user_time;
+
+let CI_time := toc - tic;
+
 print Installed_VMs;
 
+print CI_time;
+
+print nc;
+
 printf "Final: %g", Installed_VMs > results.txt;
+
+printf "Time: %g", CI_time > results.txt;

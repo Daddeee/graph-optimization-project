@@ -3,7 +3,7 @@ reset options;
 
 model surrogate.mod;
 
-data ../Assignment/instances/i_10_3.dat;
+data ../Assignment/instances/i_40_1.dat;
 
 option solver '/home/davide/ampl_linux-intel64/cplex';
 
@@ -15,13 +15,26 @@ param SR_time;
 
 let tic := _ampl_user_time;
 
+
 printf"\n\n\n">results.txt;
 printf"----------------------------------------\n" > results.txt;
 printf"          Surrogate Relaxation          \n" > results.txt;
 printf"----------------------------------------\n" > results.txt;
 # Initialize the surrogate relaxation
 
+#  Computing a smart initial lower bound
+
+param Total_Traffic= sum{i in 1..N} w[i];
+param Total_CPU= sum{i in 1..N} cpu[i];
+param Total_Memory= sum{i in 1..N} m[i];
+
+param LB_Traffic = Total_Traffic/B_c;
+param LB_CPU = Total_CPU/B_CPU;
+param LB_Memory = Total_Memory/B_m;
+
 param LB_SR default 1;
+let LB_SR := max (LB_Traffic,LB_CPU,LB_Memory);
+
 display LB_SR > results.txt;
 
 param UB_SR default M;

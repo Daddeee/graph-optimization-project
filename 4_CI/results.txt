@@ -1,20 +1,512 @@
-Initial: 2.63636
+Initial: 11.1277
 
 Found violation: traffic, j=1
-CI[1] := 1 8 9 10 
+CI[1] := 2 11 28 37 40 
 
 Found violation: cpu, j=1
-CI[2] := 1 8 9 10 
+CI[2] := 2 11 12 17 19 
+
+Found violation: traffic, j=2
+CI[3] := 3 8 23 26 27 29 34 
+
+Found violation: traffic, j=3
+CI[4] := 16 19 33 
+
+Found violation: memory, j=3
+CI[5] := 5 6 12 19 
+
+Found violation: traffic, j=4
+CI[6] := 20 29 30 
+
+Found violation: traffic, j=5
+CI[7] := 18 25 31 
 
 Found violation: traffic, j=8
-CI[3] := 4 5 6 
+CI[8] := 1 24 32 
+
+Found violation: traffic, j=10
+CI[9] := 1 7 22 28 37 
+
+Found violation: traffic, j=16
+CI[10] := 6 29 33 39 
+
+Found violation: cpu, j=1
+CI[11] := 8 12 25 26 40 
+
+Found violation: memory, j=1
+CI[12] := 6 8 12 26 40 
+
+Found violation: traffic, j=4
+CI[13] := 16 29 33 
+
+Found violation: traffic, j=5
+CI[14] := 1 31 33 
+
+Found violation: traffic, j=6
+CI[15] := 5 11 17 30 
 
 Found violation: traffic, j=8
-CI[4] := 1 5 6 
+CI[16] := 5 10 15 24 26 
+
+Found violation: traffic, j=9
+CI[17] := 25 29 30 
+
+Found violation: traffic, j=10
+CI[18] := 1 4 24 
+
+Found violation: traffic, j=13
+CI[19] := 7 14 23 28 29 36 
+
+Found violation: traffic, j=14
+CI[20] := 2 20 27 33 
+
+Found violation: traffic, j=16
+CI[21] := 21 24 32 
+
+Found violation: traffic, j=17
+CI[22] := 4 9 13 
+
+Found violation: traffic, j=18
+CI[23] := 4 18 32 
+
+Found violation: traffic, j=19
+CI[24] := 13 21 38 
+
+Found violation: traffic, j=22
+CI[25] := 11 14 30 31 
+
+Found violation: traffic, j=28
+CI[26] := 9 22 36 
+
+Found violation: traffic, j=36
+CI[27] := 1 9 36 
+
+Found violation: cpu, j=36
+CI[28] := 8 12 23 26 28 40 
+
+Found violation: traffic, j=1
+CI[29] := 14 19 20 30 37 
+
+Found violation: traffic, j=2
+CI[30] := 14 29 30 37 
+
+Found violation: traffic, j=5
+CI[31] := 24 29 35 
+
+Found violation: traffic, j=9
+CI[32] := 1 15 31 
+
+Found violation: traffic, j=14
+CI[33] := 9 20 21 28 
+
+Found violation: traffic, j=20
+CI[34] := 2 6 9 14 39 
+
+Found violation: traffic, j=1
+CI[35] := 2 9 13 34 39 
+
+Found violation: traffic, j=2
+CI[36] := 9 20 22 37 
+
+Found violation: traffic, j=3
+CI[37] := 2 9 18 26 
+
+Found violation: traffic, j=7
+CI[38] := 6 19 21 39 
+
+Found violation: traffic, j=40
+CI[39] := 5 12 25 33 
+
+Found violation: traffic, j=1
+CI[40] := 2 9 11 22 39 
+
+Found violation: cpu, j=1
+CI[41] := 7 21 22 31 39 40 
+
+Found violation: memory, j=1
+CI[42] := 6 7 17 22 28 39 
+
+Found violation: traffic, j=4
+CI[43] := 14 17 19 29 
+
+Found violation: traffic, j=6
+CI[44] := 3 17 30 31 
+
+Found violation: traffic, j=12
+CI[45] := 16 21 35 38 
+
+Found violation: traffic, j=13
+CI[46] := 1 10 18 
+
+Found violation: traffic, j=14
+CI[47] := 18 32 38 
+
+Found violation: traffic, j=38
+CI[48] := 4 15 36 
+
+Found violation: cpu, j=38
+CI[49] := 2 7 8 12 17 20 23 39 
+
+Found violation: traffic, j=39
+CI[50] := 10 14 24 28 36 
+
+Found violation: traffic, j=1
+CI[51] := 11 12 20 22 28 
+
+Found violation: traffic, j=3
+CI[52] := 2 11 14 19 21 
+
+Found violation: cpu, j=3
+CI[53] := 11 14 21 22 28 
+
+Found violation: traffic, j=5
+CI[54] := 10 25 33 
+
+Found violation: traffic, j=6
+CI[55] := 3 24 33 
+
+Found violation: traffic, j=9
+CI[56] := 12 19 20 21 23 26 
+
+Found violation: traffic, j=14
+CI[57] := 16 18 32 
+
+Found violation: traffic, j=37
+CI[58] := 2 4 12 32 
+
+Found violation: traffic, j=40
+CI[59] := 5 14 20 23 30 39 
+
+Found violation: cpu, j=40
+CI[60] := 14 20 21 23 30 35 39 
+
+Found violation: traffic, j=1
+CI[61] := 18 19 32 39 
+
+Found violation: traffic, j=2
+CI[62] := 9 32 37 
+
+Found violation: traffic, j=3
+CI[63] := 3 17 18 33 40 
+
+Found violation: cpu, j=3
+CI[64] := 3 6 17 33 40 
+
+Found violation: traffic, j=4
+CI[65] := 5 15 18 
+
+Found violation: traffic, j=14
+CI[66] := 2 19 21 35 
+
+Found violation: traffic, j=18
+CI[67] := 29 31 38 
+
+Found violation: traffic, j=40
+CI[68] := 29 34 35 36 
+
+Found violation: traffic, j=1
+CI[69] := 11 18 19 34 35 
+
+Found violation: cpu, j=1
+CI[70] := 11 19 33 34 35 
+
+Found violation: traffic, j=2
+CI[71] := 7 16 18 34 38 
+
+Found violation: cpu, j=2
+CI[72] := 7 9 11 12 35 
+
+Found violation: traffic, j=3
+CI[73] := 9 16 24 
+
+Found violation: traffic, j=5
+CI[74] := 13 25 36 
 
 Found violation: traffic, j=8
-CI[5] := 1 4 6 
+CI[75] := 5 25 27 
+
+Found violation: traffic, j=9
+CI[76] := 8 12 14 22 28 38 
+
+Found violation: cpu, j=9
+CI[77] := 8 11 13 14 20 28 39 
+
+Found violation: traffic, j=40
+CI[78] := 2 4 19 23 
+
+Found violation: traffic, j=1
+CI[79] := 2 17 19 34 35 
+
+Found violation: cpu, j=1
+CI[80] := 2 14 19 21 40 
+
+Found violation: traffic, j=2
+CI[81] := 2 4 14 19 35 
+
+Found violation: cpu, j=2
+CI[82] := 2 14 19 33 35 
+
+Found violation: traffic, j=3
+CI[83] := 9 21 26 34 40 
+
+Found violation: memory, j=3
+CI[84] := 12 21 26 34 40 
+
+Found violation: traffic, j=4
+CI[85] := 16 17 25 35 
+
+Found violation: traffic, j=7
+CI[86] := 18 20 33 34 
 
 Found violation: traffic, j=8
-CI[6] := 1 6 9 
-Final: 2.63636
+CI[87] := 16 25 31 
+
+Found violation: traffic, j=25
+CI[88] := 1 19 21 23 39 
+
+Found violation: traffic, j=39
+CI[89] := 4 16 26 27 
+
+Found violation: traffic, j=40
+CI[90] := 2 7 15 16 36 
+
+Found violation: traffic, j=1
+CI[91] := 6 22 26 32 39 
+
+Found violation: cpu, j=1
+CI[92] := 9 21 22 26 39 
+
+Found violation: traffic, j=2
+CI[93] := 3 18 35 37 
+
+Found violation: traffic, j=3
+CI[94] := 17 24 28 30 
+
+Found violation: traffic, j=12
+CI[95] := 24 31 32 
+
+Found violation: traffic, j=15
+CI[96] := 1 15 27 38 
+
+Found violation: traffic, j=16
+CI[97] := 13 20 21 23 40 
+
+Found violation: traffic, j=25
+CI[98] := 9 14 17 38 
+
+Found violation: traffic, j=37
+CI[99] := 2 16 18 26 28 39 
+
+Found violation: traffic, j=40
+CI[100] := 8 13 17 34 36 
+
+Found violation: traffic, j=4
+CI[101] := 5 30 31 
+
+Found violation: traffic, j=16
+CI[102] := 4 7 16 20 27 
+
+Found violation: traffic, j=17
+CI[103] := 13 19 21 22 
+
+Found violation: traffic, j=35
+CI[104] := 7 12 30 31 40 
+
+Found violation: traffic, j=37
+CI[105] := 17 18 29 
+
+Found violation: traffic, j=1
+CI[106] := 15 16 23 38 40 
+
+Found violation: traffic, j=9
+CI[107] := 3 6 21 25 
+
+Found violation: traffic, j=12
+CI[108] := 2 5 33 
+
+Found violation: traffic, j=33
+CI[109] := 24 30 31 40 
+
+Found violation: traffic, j=36
+CI[110] := 5 10 21 35 
+
+Found violation: traffic, j=38
+CI[111] := 35 36 38 
+
+Found violation: traffic, j=40
+CI[112] := 5 13 18 
+
+Found violation: traffic, j=1
+CI[113] := 3 10 21 27 39 
+
+Found violation: traffic, j=11
+CI[114] := 4 23 29 30 
+
+Found violation: traffic, j=23
+CI[115] := 2 16 20 23 34 
+
+Found violation: traffic, j=28
+CI[116] := 12 16 24 28 
+
+Found violation: traffic, j=29
+CI[117] := 4 33 38 
+
+Found violation: traffic, j=36
+CI[118] := 1 5 12 28 
+
+Found violation: traffic, j=39
+CI[119] := 11 18 29 
+
+Found violation: traffic, j=1
+CI[120] := 8 10 19 22 37 
+
+Found violation: traffic, j=33
+CI[121] := 24 25 32 
+
+Found violation: traffic, j=34
+CI[122] := 26 29 36 
+
+Found violation: traffic, j=38
+CI[123] := 12 20 33 38 
+
+Found violation: traffic, j=33
+CI[124] := 9 19 32 
+
+Found violation: traffic, j=34
+CI[125] := 24 29 36 
+
+Found violation: traffic, j=36
+CI[126] := 1 18 34 
+
+Found violation: traffic, j=38
+CI[127] := 18 33 38 
+
+Found violation: traffic, j=40
+CI[128] := 9 10 14 22 30 
+
+Found violation: traffic, j=22
+CI[129] := 6 11 25 28 
+
+Found violation: traffic, j=27
+CI[130] := 5 8 9 21 
+
+Found violation: traffic, j=29
+CI[131] := 3 7 10 12 24 
+
+Found violation: traffic, j=37
+CI[132] := 2 9 17 35 
+
+Found violation: traffic, j=38
+CI[133] := 2 33 38 
+
+Found violation: traffic, j=40
+CI[134] := 7 14 21 22 30 
+
+Found violation: traffic, j=34
+CI[135] := 5 29 36 
+
+Found violation: traffic, j=38
+CI[136] := 24 33 38 
+
+Found violation: traffic, j=33
+CI[137] := 2 16 32 
+
+Found violation: traffic, j=34
+CI[138] := 3 29 36 
+
+Found violation: cpu, j=34
+CI[139] := 10 16 26 39 40 
+
+Found violation: traffic, j=38
+CI[140] := 11 22 33 38 
+
+Found violation: traffic, j=3
+CI[141] := 4 11 27 
+
+Found violation: traffic, j=31
+CI[142] := 9 10 13 
+
+Found violation: traffic, j=34
+CI[143] := 4 26 36 
+
+Found violation: traffic, j=38
+CI[144] := 6 7 33 38 
+
+Found violation: traffic, j=33
+CI[145] := 16 24 32 
+
+Found violation: traffic, j=34
+CI[146] := 7 29 36 
+
+Found violation: traffic, j=38
+CI[147] := 5 20 33 38 
+
+Found violation: traffic, j=33
+CI[148] := 6 24 32 
+
+Found violation: traffic, j=34
+CI[149] := 17 29 36 
+
+Found violation: traffic, j=35
+CI[150] := 19 31 32 
+
+Found violation: traffic, j=38
+CI[151] := 16 33 38 
+
+Found violation: traffic, j=33
+CI[152] := 17 24 32 
+
+Found violation: traffic, j=34
+CI[153] := 6 29 36 
+
+Found violation: traffic, j=38
+CI[154] := 5 33 38 
+
+Found violation: traffic, j=33
+CI[155] := 13 14 24 32 
+
+Found violation: traffic, j=34
+CI[156] := 12 29 36 
+
+Found violation: traffic, j=35
+CI[157] := 3 15 18 31 
+
+Found violation: traffic, j=38
+CI[158] := 1 20 33 38 
+
+Found violation: traffic, j=28
+CI[159] := 5 6 13 
+
+Found violation: traffic, j=29
+CI[160] := 3 11 17 27 40 
+
+Found violation: traffic, j=33
+CI[161] := 3 14 24 32 
+
+Found violation: traffic, j=38
+CI[162] := 1 33 38 
+
+Found violation: traffic, j=33
+CI[163] := 10 14 24 32 
+
+Found violation: traffic, j=38
+CI[164] := 7 20 33 38 
+
+Found violation: traffic, j=38
+CI[165] := 10 20 33 38 
+
+Found violation: traffic, j=33
+CI[166] := 1 14 24 32 
+
+Found violation: traffic, j=34
+CI[167] := 13 29 36 
+
+Found violation: traffic, j=37
+CI[168] := 10 12 22 35 37 
+
+Found violation: traffic, j=38
+CI[169] := 3 20 33 38 
+
+Found violation: traffic, j=33
+CI[170] := 9 24 32 
+Final: 11.1277Time: 85.1199
