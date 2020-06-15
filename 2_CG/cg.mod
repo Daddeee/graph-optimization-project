@@ -40,7 +40,7 @@ param pi{1..N} >=0 default 0;
 
 #VARIABLES
 #cluster selection
-var l{1..M}, binary;
+var l{1..M}, >=0, <= 1;
 
 
 #OBJECTIVE
@@ -52,40 +52,29 @@ minimize bin_CG:
 #assign each request to a machine
 subject to cover{i in 1..N}: 
 	sum{j in 1..M} s[i,j]*l[j] >= 1;
-
-
-    
+	    
 
 	   #####################
 		#  PRICING PROBLEM	#
 		#####################	
 
-#VARIABLES
-#composition of candidate new cluster
 var u{1..N}, binary;
 
-#OBJECTIVE
-#maximize profit of candidate new cluster
 maximize profit:
 	sum{i in 1..N} pi[i]*u[i];
-		
-#CONSTRAINTS		
 
-#traffic constraint
-subject to traffic_constraint: 
-	sum{i in 1..N} u[i]*w[i] <= B_c;;
+subject to Traffic: 
+	sum{i in 1..N} u[i]*w[i] <= B_c;
+ 
+subject to CPU: 
+	sum{i in 1..N} u[i]*cpu[i] <= B_CPU;
 
-#CPU requirement 
-subject to CPU_recquirement: 
-	sum{i in 1..N} u[i]*cpu[i] <= B_CPU ;
-
-#memory constrait
-subject to memory_recquirement: 
-	sum{i in 1..N} u[i]*m[i] <=  B_m  ;
+subject to Memory: 
+	sum{i in 1..N} u[i]*m[i] <=  B_m ;
     
 
 #PROBLEM DEFINITION
 
 problem master: l, bin_CG, cover; 
 
-problem pricing: u, profit, traffic_constraint,CPU_recquirement,memory_recquirement;
+problem pricing: u, profit, Traffic, CPU, Memory;

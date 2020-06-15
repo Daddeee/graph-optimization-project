@@ -1,7 +1,7 @@
 
 reset;
 model cg.mod;
-data ../Assignment/instances/i_10_1.dat;
+data ../Assignment/instances/i_40_1.dat;
 
 
 problem master;
@@ -13,6 +13,12 @@ option solver 'cplex';
 #auxiliary parameters
 param flag default 0;
 param max_iter default 100;
+
+param tic;
+param toc;
+param CG_time;
+
+let tic := _ampl_user_time;
 
 let M:= N;
 
@@ -109,6 +115,10 @@ for{counter in 1 .. max_iter}
 #solve the master problem with the final set of clusters (columns/variables)
 solve master;
 
+let toc := _ampl_user_time + _total_solve_user_time;
+
+let CG_time := toc - tic;
+
 #print the optimal objective function value of the final master problem
 printf "\n final master objective: %7.6f \n", bin_CG > results.txt;
 #print the number of columns (variables) of the final master problem	
@@ -120,3 +130,7 @@ if (flag=1) then
 	printf"\n Solution is not optimal: increase number of iterations!\n" > results.txt;	
 else
 	printf"\n Solution is optimal!\n" > results.txt;	
+
+display bin_CG;
+display CG_time;
+display M;
