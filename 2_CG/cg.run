@@ -20,12 +20,8 @@ param CG_time;
 
 let tic := _ampl_user_time;
 
-let M:= N;
-
 for{i in 1..N}{
-	
 	let s[i,i] := 1;
-
 }
 
 
@@ -41,9 +37,9 @@ for{counter in 1 .. max_iter}
 	solve master;
 	
 	#print the optimal objective value of the current master problem 
-	printf"\n objective function (bins): %7.6f\n", bin_CG > results.txt;
+	printf"\n objective function (bins): %7.6f\n", set_CG > results.txt;
 	printf"\n used bins: "> results.txt;
-	for{binindex in 1..M}{
+	for{binindex in 1..S}{
 		if (l[binindex] > 0) then{
 			printf"\n virtual machine %d (%g)", binindex, l[binindex] > results.txt;
 			printf"\t requests: "> results.txt;
@@ -96,13 +92,13 @@ for{counter in 1 .. max_iter}
 	else
 	{			
 		#add the candidate new cluster (column/variable) to the master problem				
-		let M:=M+1;	    			
+		let S:=S+1;	    			
 		for{i in 1..N}
-			let s[i,M]:= u[i];
+			let s[i,S]:= u[i];
 		
 		#print the current number of clusters in the master problem
 	 	printf "\n Added virtual machine\n"> results.txt;
-	    printf" M=%d \n", M > results.txt;
+	    printf" S=%d \n", S > results.txt;
 		printf" \n" > results.txt;
 		printf"------------------------------------------------ \n" > results.txt;
 		
@@ -120,9 +116,9 @@ let toc := _ampl_user_time + _total_solve_user_time;
 let CG_time := toc - tic;
 
 #print the optimal objective function value of the final master problem
-printf "\n final master objective: %7.6f \n", bin_CG > results.txt;
+printf "\n final master objective: %7.6f \n", set_CG > results.txt;
 #print the number of columns (variables) of the final master problem	
-printf "\n final number of columns: %7d \n", M > results.txt;
+printf "\n final number of columns: %7d \n", S > results.txt;
 
 #check if the column generation procedure is forced to terminate
 #before finding the optimal solution 
@@ -131,6 +127,6 @@ if (flag=1) then
 else
 	printf"\n Solution is optimal!\n" > results.txt;	
 
-display bin_CG;
+display set_CG;
 display CG_time;
-display M;
+display S;

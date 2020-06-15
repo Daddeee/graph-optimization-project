@@ -22,8 +22,11 @@ param B_CPU default N;
 #VM max memory
 param B_m default N;
 
+#number of clusters
+param S default N;
+
 #cluster composition
-param s{1..N,1..M}  default 0;
+param s{1..N,1..S}  default 0;
 
 #request profit for the pricing problem
 #calculated as the optimal value of the dual variables of
@@ -31,32 +34,21 @@ param s{1..N,1..M}  default 0;
 param pi{1..N} >=0 default 0;
 
 
-
-
     #####################
-    #       master	       #
+    #       master	    #
     #####################
     
+var l{1..S}, >=0, <= 1;
 
-#VARIABLES
-#cluster selection
-var l{1..M}, >=0, <= 1;
-
-
-#OBJECTIVE
-#minimize number of used virtual machine 
-minimize bin_CG: 
-	sum{i in 1..M} l[i];
+minimize set_CG: 
+	sum{i in 1..S} l[i];
 	
-#CONSTRAINTS	
-#assign each request to a machine
 subject to cover{i in 1..N}: 
-	sum{j in 1..M} s[i,j]*l[j] >= 1;
-	    
+	sum{j in 1..S} s[i,j]*l[j] >= 1;
 
-	   #####################
-		#  PRICING PROBLEM	#
-		#####################	
+	#####################
+	#  PRICING PROBLEM	#
+	#####################	
 
 var u{1..N}, binary;
 
@@ -75,6 +67,6 @@ subject to Memory:
 
 #PROBLEM DEFINITION
 
-problem master: l, bin_CG, cover; 
+problem master: l, set_CG, cover; 
 
 problem pricing: u, profit, Traffic, CPU, Memory;
